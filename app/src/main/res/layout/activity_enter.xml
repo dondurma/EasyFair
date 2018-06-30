@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context="com.baibeiyun.eazyfair.activity.EnterActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:id="@+id/my_account_rl"
+            android:layout_width="45dp"
+            android:layout_height="50dp"
+            android:gravity="center">
+            <!--返回-->
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@mipmap/zhanghu_icon" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="EasyFair"
+            android:textColor="@color/color_white"
+            android:textSize="20sp" />
+
+        <FrameLayout
+            android:id="@+id/news_rl"
+            android:layout_width="50dp"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_gravity="center"
+                android:background="@mipmap/xiaoxi_icon" />
+
+            <RelativeLayout
+                android:layout_width="25dp"
+                android:layout_height="20dp"
+                android:layout_gravity="center">
+
+                <ImageView
+                    android:id="@+id/redpoint_iv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:background="@mipmap/redpoint"
+                    android:visibility="gone" />
+            </RelativeLayout>
+        </FrameLayout>
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/supplier_bt"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/stroke_gray_and_solid_white"
+        android:text="@string/my_supplier"
+        android:textColor="@color/blue"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/buyer_bt"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/stroke_gray_and_solid_white"
+        android:text="@string/my_buyer"
+        android:textColor="@color/green_color"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/business_bt"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/stroke_gray_and_solid_white"
+        android:text="@string/businessopportunity"
+        android:textColor="@color/orange_color"
+        android:textSize="18sp" />
+</LinearLayout>

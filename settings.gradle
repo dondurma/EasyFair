@@ -1,0 +1,2 @@
+include ':app', ':libzxing', ':multi-image-selector', ':AndroidsLib-release', ':GraffitiLib'
+include ':library'

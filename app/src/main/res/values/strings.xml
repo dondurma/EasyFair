@@ -1,0 +1,416 @@
+<resources>
+    <!--app名称-->
+    <string name="app_name">展会笔记</string>
+
+    <string name="about_zhbj">关于展会笔记</string>
+    <string name="function_js">功能介绍</string>
+    <string name="system_tz">系统通知</string>
+    <string name="contact_kf">联系客服</string>
+    <string name="check_xbb">检查新版本</string>
+    <string name="use_tkhyszc">使用条款和隐私政策</string>
+    <string name="companyname">香港绡域有限公司</string>
+
+    <string name="account">账户</string>
+    <string name="member_lx">会员类型:</string>
+    <string name="grade">等级:</string>
+    <string name="basic_zl">基本资料</string>
+    <string name="my_ewm">我的二维码</string>
+    <string name="about_ef">关于EasyFair</string>
+    <string name="system_sz">系统设置</string>
+    <string name="clean_hc">清理缓存</string>
+    <string name="exit_dl">退出登录</string>
+
+
+    <string name="serve_xy">服务协议</string>
+
+    <string name="chinese">中文</string>
+    <string name="english">English</string>
+    <string name="company_mc">公司名称</string>
+    <string name="job">职位</string>
+    <string name="telephone">联系电话</string>
+    <string name="save">保\t存</string>
+
+
+    <string name="businessopportunity">商机</string>
+    <string name="goods_fb">商品发布</string>
+    <string name="demand_fb">需求发布</string>
+    <string name="exhibition">展会信息</string>
+
+    <string name="goods_mb">商品模板</string>
+    <string name="goods_hh">商品货号</string>
+    <string name="for_example">例如2352152465</string>
+    <string name="goods_mc">商品名称</string>
+    <string name="please_txspmc">请填写商品名称</string>
+    <string name="goods_jg">商品价格</string>
+    <string name="please_txspjg">请填写商品价格(数字)</string>
+    <string name="goods_cz">商品材质</string>
+    <string name="suchas_pvc">例如PVC塑料</string>
+    <string name="goods_ys">商品颜色</string>
+    <string name="suchas_ys">例如黄色/绿色/蓝色</string>
+    <string name="next">下一步</string>
+
+    <string name="currency_lx">货币类型</string>
+    <string name="dollar">美元</string>
+    <string name="price_tk">价格条款</string>
+    <string name="upload">上传</string>
+    <string name="diy">自\t定\t义</string>
+
+    <string name="goods_dw">商品单位</string>
+    <string name="fill_sz">填写数字</string>
+    <string name="unit">单位</string>
+    <string name="goods_zl">商品重量</string>
+    <string name="outbox_bz">外箱包装</string>
+    <string name="number">数量</string>
+    <string name="size">尺寸</string>
+    <string name="weight">重量</string>
+    <string name="box_bz">中盒包装</string>
+
+    <string name="contact_fs">联系方式</string>
+    <string name="work_yx">工作邮箱</string>
+    <string name="company_dz">公司地址</string>
+    <string name="industry_lx">行业类型</string>
+    <string name="company_logo">公司Logo</string>
+
+    <string name="customer_lb">客户列表</string>
+    <string name="please_srkhmhgsm">请输入客户名称或公司名称</string>
+    <string name="search">搜索</string>
+
+    <string name="input_gsmc">输入公司名称</string>
+
+    <string name="goods_xq">商品详情</string>
+    <string name="goods_dj">商品单价</string>
+    <string name="goods_cs">商品参数</string>
+    <string name="material">材质</string>
+    <string name="color">颜色</string>
+    <string name="remark">备\t\t注</string>
+    <string name="goods_js">商品介绍</string>
+    <string name="inquiry_kh">询价客户</string>
+
+    <string name="edit">编辑</string>
+    <string name="goods_tp">产品图片</string>
+    <string name="RMB">人民币</string>
+
+    <string name="again_ps">重新拍摄</string>
+    <string name="edit_mp">编辑名片</string>
+    <string name="name">姓名</string>
+    <string name="email">邮箱</string>
+
+    <string name="department">部门</string>
+    <string name="fax">传真</string>
+    <string name="pager">传呼机</string>
+    <string name="web">网址</string>
+    <string name="postcode">邮政编码</string>
+    <string name="icq">社交账号</string>
+
+    <string name="edit_kh">编辑客户</string>
+
+
+    <string name="goods_xxxg">商品信息修改</string>
+
+    <string name="edit_supplier">编辑供应商</string>
+
+    <string name="my_supplier">我是供应商</string>
+    <string name="my_buyer">我是采购商</string>
+
+    <string name="exhibition_xq">展会详情</string>
+
+    <string name="exhibition_xx">展会信息</string>
+
+
+    <string name="input_goodsname">输入商品名称</string>
+
+    <string name="goods_qd">商品清单</string>
+    <string name="confirm_tj">确认添加</string>
+
+    <string name="send_xjsj">发送询价数据</string>
+    <string name="send_fs">发送方式</string>
+    <string name="bluetooth_fs">\t\t蓝牙发送</string>
+    <string name="email_fs">\t\tEmail发送</string>
+    <string name="data_gs">资料格式</string>
+    <string name="excel">\t\tExcel</string>
+    <string name="excel_for_input">\t\tExcel（供导入）</string>
+    <string name="pdf">\t\tPDF（推荐）</string>
+    <string name="send">发送</string>
+    <string name="send_en">发送(英文版)</string>
+    <string name="send_ch">发送(中文版)</string>
+
+
+    <string name="information_xx">资讯消息</string>
+
+    <string name="inquiry">询价</string>
+    <string name="supplier">供应商</string>
+    <string name="new_supplier">新建供应商</string>
+
+
+    <string name="please_sryxzh">请输入邮箱账号</string>
+    <string name="please_srmm">请输入密码</string>
+    <string name="login">登录</string>
+
+    <string name="register">注册</string>
+    <string name="tryout">试用</string>
+
+    <string name="goods_spxxxg">商品信息修改</string>
+
+    <string name="my_goods">我的商品</string>
+    <string name="my_dgys">我的供应商</string>
+    <string name="my_dkh">我的客户</string>
+    <string name="customer_mp">客户名片</string>
+    <string name="customer_zl">客户资料</string>
+    <string name="trade_jl">交易记录</string>
+    <string name="liuyang_xj">留样询价</string>
+    <string name="liuyang_xj_s">\t留样询价</string>
+
+    <string name="input_spmc">输入商品名称</string>
+    <string name="goods_sls">商品数量:</string>
+
+    <string name="input_beizhu">请勿沾水/勿靠近火源</string>
+    <string name="input_introduction">请输入商品相关介绍</string>
+
+    <string name="my_kh">我的客户</string>
+    <string name="quote">报价</string>
+
+    <string name="supplier_mp">供应商名片</string>
+    <string name="supplier_zl">供应商资料</string>
+    <string name="liuyang_bj">留样报价</string>
+    <string name="liuyang_bj_s">\t留样报价</string>
+    <string name="yuliu_bj">预留报价</string>
+    <string name="yuliu_bj_s">\t预留报价</string>
+    <string name="begin_bj">开始报价</string>
+    <string name="easy_bj">简易报价</string>
+    <string name="edit_khzl">编辑客户资料</string>
+
+    <string name="supplier_lb">供应商列表</string>
+    <string name="input_gysmchgsmc">请输入供应商名称或公司名称</string>
+
+    <string name="new_kh">新建客户</string>
+    <string name="xing">姓</string>
+    <string name="ming">名</string>
+    <string name="detail_dz">详细地址</string>
+    <string name="please_xz">请选择</string>
+
+    <string name="suchas_unit">例如cm/m</string>
+
+
+    <string name="determine">确定</string>
+
+    <string name="new_gys">新建供应商</string>
+
+    <string name="custome">客户</string>
+    <string name="new_custome">新建客户</string>
+
+    <string name="quote_qd">报价清单</string>
+    <string name="quote_sj">报价时间</string>
+    <string name="all_lx">全部类型</string>
+    <string name="scanning">扫描</string>
+    <string name="scanning_ewm">扫描二维码</string>
+    <string name="scanning_mp">扫描名片</string>
+
+    <string name="input_sjhhyx">请输入邮箱</string>
+    <string name="input_yzm">输入验证码</string>
+    <string name="achieve_yzm">获取验证码</string>
+    <string name="ihaveread">我已阅读并接受</string>
+    <string name="agreement">《EasyFair服务协议》</string>
+
+    <string name="goods_zlfs">商品资料发送</string>
+
+
+    <string name="language_xz">语言选择</string>
+    <string name="safe">安全</string>
+    <string name="account_bh">账号保护</string>
+    <string name="not_kq">未开启</string>
+    <string name="password_xg">密码修改</string>
+    <string name="news_txxg">消息提醒修改</string>
+    <string name="remind">提醒</string>
+    <string name="more">更多</string>
+    <string name="data_bf">数据备份</string>
+    <string name="kq">开启</string>
+    <string name="unremind">不提醒</string>
+
+    <string name="cancel">取消</string>
+
+    <string name="unit_price">单价</string>
+    1
+    <string name="remarks">备注</string>
+
+
+    <string name="yuliu_xj">预留询价</string>
+    <string name="yuliu_xj_s">\t预留询价</string>
+
+    <string name="xjsj">询价时间</string>
+
+    <string name="xunjia_kh">询价客户</string>
+
+
+    <string name="delete">删\t除</string>
+
+    <string name="detail">详情</string>
+
+
+    <string name="add_sp">添加商品</string>
+    <string name="new_sp">新建商品</string>
+
+    <string name="scan">扫一扫</string>
+    <string name="manual_tj">手动添加</string>
+
+    <string name="select_zp">选择照片</string>
+
+    <string name="already_bj">\t已报价</string>
+    <string name="already_bj_s">已报价</string>
+
+    <string name="our_gys">我的供应商</string>
+    <string name="all_hyggs">全行供应商</string>
+
+    <string name="our_kh">我的客户</string>
+    <string name="all_hycgs">全行业采购商</string>
+
+    <string name="goods_xz">商品选择</string>
+    <string name="price_qj">价格区间</string>
+    <string name="confirm_fb">确认发布</string>
+
+    <string name="select_ch">中文</string>
+    <string name="select_en">英文</string>
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载…</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+
+    <string name="modify_failed">修改失败!</string>
+    <string name="modify_success">修改成功!</string>
+
+    <string name="update_mm">修改密码</string>
+
+    <string name="original_mm">原密码</string>
+    <string name="new_mm">新密码</string>
+    <string name="confirm_mm">确认密码</string>
+
+    <string name="determine_sc">确定删除吗？删除后无法恢复！</string>
+    <string name="no_file_try_agein">当前手机中没有要导入的文件，请检查后再试！</string>
+    <string name="name_and_number_bnwk">商品名和货号不能为空！</string>
+    <string name="Import_sjcg">导入数据成功!</string>
+    <string name="price_bnwk">商品价格不能为空!</string>
+    <string name="info_myws">个人信息没有完善，是否现在去完善？</string>
+    <string name="please_fill_zqdhylx">请填写正确的行业类型！</string>
+    <string name="the_phone_not_have_email">该设备没有Email!</string>
+    <string name="the_phone_not_have_bluetooth">该设备没有蓝牙!</string>
+    <string name="unable_to_call_bluetooth">该设备无法调用蓝牙，请尝试其他发送方式!</string>
+    <string name="pic_too_big">图片太大!</string>
+    <string name="please_cxsm">请重新扫描!</string>
+    <string name="no_permissions">无此接口权限!</string>
+    <string name="credit_low">余额不足!</string>
+    <string name="frozen">用户已冻结!</string>
+    <string name="time_limit">时间超限!</string>
+    <string name="verification_false">验证md5错误!</string>
+    <string name="usename_false">用户名或密码错误!</string>
+    <string name="upload_fail">上传失败!</string>
+    <string name="upload_to_large">文件上传太大!</string>
+    <string name="request_false">请求出现异常!</string>
+    <string name="recognition_false">识别失败!</string>
+    <string name="save_success">保存成功！</string>
+    <string name="clean_complete">清理完成!</string>
+    <string name="info_not_complete">个人信息未填写，无法生成二维码!</string>
+    <string name="switch_success">切换成功,重启应用后生效！</string>
+    <string name="select_send_goods">请选择要发送的商品！</string>
+    <string name="no_more_data">没有更多的数据了！</string>
+    <string name="export_data">导出备份数据</string>
+    <string name="confirm_xgmm">确认修改密码</string>
+    <string name="check_info">请检查信息是否填写完整!</string>
+
+
+    <string name="now_ch">当前为中文！</string>
+    <string name="now_en">当前为英文！</string>
+    <string name="export_success">文件导出成功!</string>
+    <string name="import_success">文件导入成功!</string>
+
+    <string name="not_add">已经添加过，请勿重复添加！</string>
+    <string name="to_ws">去完善</string>
+    <string name="to_see">再看看</string>
+    <string name="please_jsxy">请先接受《EasyFair服务协议》！</string>
+    <string name="to_exit">再按一次退出</string>
+    <string name="software_gx">软件更新</string>
+    <string name="update">更新</string>
+    <string name="down">正在下载</string>
+    <string name="no_update">暂不更新</string>
+    <string name="zccg">注册成功！</string>
+
+    <string name="company_name">公司名</string>
+    <string name="please_bjsj">请选择报价时间</string>
+    <string name="please_xjsj">请选择询价时间</string>
+    <string name="please_xzyfsdsp">请选择要发送的商品！</string>
+
+    <string name="already_xj">\t已询价</string>
+    <string name="already_xj_s">已询价</string>
+    <string name="not_send_email">Excel(供导入)不能使用Email发送！</string>
+    <string name="delet_ok">删除成功！</string>
+    <string name="quote_gys">报价供应商</string>
+
+    <string name="confirm_tjh">确认添加后，商品参数可到报价清单页面更改！</string>
+    <string name="baojia_jl">报价记录</string>
+    <string name="xunjia_jl">询价记录</string>
+    <string name="wfsb">无法识别！</string>
+    release_sj
+    <string name="zsqdl">最少起订量</string>
+    <string name="suchas_size">例如：台/套</string>
+    <string name="templet_wc">商品模板已生成，是否立即导出?</string>
+    <string name="yes">好</string>
+    <string name="no">先不导出</string>
+    <string name="one_page">已经到顶啦！</string>
+    <string name="last_page">已经到底啦！</string>
+    <string name="eg_outbox_size">例如：10cm*10cm*10cm</string>
+    <string name="input_page_error">输入页数有误！</string>
+    <string name="mc">名称</string>
+    <string name="cz">材质</string>
+    <string name="ys">颜色</string>
+    <string name="release_sj">发布时间</string>
+    <string name="goods_lx">商品类型</string>
+    <string name="please_add_goods">请选择要添加的商品！</string>
+    <string name="save_info">个人信息未保存在本地数据库，去点击保存吧？</string>
+    <string name="click_save">点击保存</string>
+    <string name="exit_sure">确定退出吗？</string>
+    <string name="delete_suc">删除成功！</string>
+    <string name="delete_fail">删除失败！</string>
+
+    <string name="allreadly_top">已经到顶了！</string>
+    <string name="select_fsfs">请选择发送方式！</string>
+    <string name="offer_gys">报价供应商</string>
+    <string name="please_xzbjlxjbjsj">请选择报价类型及报价时间！</string>
+    <string name="please_xzxjlxjxjsj">请选择询价类型及询价时间！</string>
+
+
+    <string name="please_yscdtm">请选择要删除的条目！</string>
+    <string name="send_success">发送成功！</string>
+    <string name="email_false">邮箱格式错误！</string>
+    <string name="please_xzhylx">请选择行业类型！</string>
+    <string name="please_xzsp">请选择商品！</string>
+    <string name="mores">更多\t</string>
+    <string name="jump">跳转至</string>
+    <string name="which_page">第几页</string>
+    <string name="confirm">确认</string>
+    <string name="last_pages">上一页</string>
+    <string name="next_pages">下一页</string>
+    <string name="current">当前</string>
+    <string name="page_total">页，总</string>
+    <string name="page">页</string>
+    <string name="please_input_describe">请输入商品描述！</string>
+    <string name="simple_quote">简易报价</string>
+    <string name="detail_quote">详细报价</string>
+
+    <string name="goods_ms">商品描述</string>
+
+
+    <string name="begain_xj">开始询价</string>
+    <string name="easy_xj">简易询价</string>
+    <string name="inquiry_list">询价清单</string>
+    <string name="forget_mm">忘记密码？</string>
+    <string name="find_mm">找回密码</string>
+    <string name="please_srwzxx">请输入完整信息！</string>
+
+    <string name="please_srxmm">请输入新密码</string>
+    <string name="agian_qrmm">请再次确认密码</string>
+    <string name="pw_curror">两次密码不一致!</string>
+    <string name="detail_inquiry">详细询价</string>
+
+</resources>

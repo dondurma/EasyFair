@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:fitsSystemWindows="true"
+    tools:context="com.baibeiyun.eazyfair.activity.InformationActivity">
+
+    <RelativeLayout
+        android:id="@+id/title_bar_ll"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#58C2FE">
+
+        <RelativeLayout
+            android:id="@+id/fanhui_rl"
+            android:layout_width="45dp"
+            android:layout_height="50dp">
+
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="20dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/fanhui_icon" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/information_xx"
+            android:textColor="@color/color_white"
+            android:textSize="20sp" />
+
+        <RelativeLayout
+            android:visibility="gone"
+            android:id="@+id/delete_rl"
+            android:layout_width="45dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:src="@mipmap/delete" />
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    <com.baibeiyun.eazyfair.view.XListView
+        android:id="@+id/zixun_lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title_bar_ll" />
+
+
+
+
+</RelativeLayout>

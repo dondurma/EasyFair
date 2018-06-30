@@ -1,0 +1,1661 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Industry>
+
+<One Name="电子及家电类">
+
+	<Two Name="电子消费品">
+		<Three Name="音像视听产品">
+			<Four Name="家庭影院设备"/>
+			<Four Name="VCD"/>
+			<Four Name="DVD"/>
+			<Four Name="CD"/>
+			<Four Name="LD"/>
+			<Four Name="麦克风"/>
+			<Four Name="卡拉OK设备"/>
+			<Four Name="电视"/>
+			<Four Name="机顶盒"/>
+			<Four Name="录像机"/>
+			<Four Name="录音机"/>
+			<Four Name="复读机"/>
+			<Four Name="收音机"/>
+			<Four Name="扩音器"/>
+			<Four Name="扬声器"/>
+			<Four Name="汽车音像系统"/>
+			
+		</Three>
+		<Three Name="个人数码娱乐产品">
+			<Four Name="MP3"/>
+			<Four Name="MP4"/>
+			<Four Name="MD"/>
+			<Four Name="随身听"/>
+			<Four Name="数码相机"/>
+			<Four Name="电子游戏产品"/>
+		</Three>
+		<Three Name="个人通讯产品">
+			<Four Name="手机"/>
+			<Four Name="寻呼机"/>
+			<Four Name="对讲机"/>
+			<Four Name="PDA"/>
+		</Three>
+	</Two>
+
+	<Two Name="电子电气产品">
+		<Three Name="电子安全设备">
+			<Four Name="监控器"/>
+			<Four Name="警报器"/>
+			<Four Name="自动安全产品"/>
+			<Four Name="检测器"/>
+			<Four Name="传感器"/>
+			<Four Name="通道控制系统"/>
+			<Four Name="家用安全产品"/>
+			<Four Name="办公室安全系统"/>
+			<Four Name="自动安全产品"/>
+			<Four Name="电子锁系统"/>
+			<Four Name="智能卡"/>
+		</Three>
+	
+		<Three Name="商务自动化设备">
+			<Four Name="复印机"/>
+			<Four Name="电子写字板"/>
+			<Four Name="投影仪"/>
+			<Four Name="碎纸机"/>
+			<Four Name="考勤机"/>
+			<Four Name="图像会议设备"/>
+			<Four Name="电子收款机"/>
+			<Four Name="自动取款机"/>
+			<Four Name="电子打卡机"/>
+			<Four Name="点钞机"/>
+			<Four Name="条码打印机"/>
+			<Four Name="条码扫描器"/>
+			<Four Name="数据采集器"/>
+			<Four Name="IC卡"/>
+		</Three>
+		<Three Name="电子电工产品">
+			<Four Name="光电器件"/>
+			<Four Name="整流器"/>
+			<Four Name="逆变器"/>
+			<Four Name="放大器"/>
+			<Four Name="变频器"/>
+			<Four Name="分频器"/>
+			<Four Name="继电器"/>
+			<Four Name="适配器"/>
+			<Four Name="电池"/>
+			<Four Name="变压器"/>
+			<Four Name="稳压器"/>
+			<Four Name="电感器"/>
+			<Four Name="电抗器"/>
+			<Four Name="断路器"/>
+			<Four Name="万用表"/>
+			<Four Name="连接器"/>
+			<Four Name="测量设备"/>
+			<Four Name="充电器"/>
+			<Four Name="电子检测设备"/>
+			<Four Name="电子元器件"/>
+			
+		</Three>
+	</Two>
+
+	<Two Name="计算机及通讯产品">
+		<Three Name="计算机及配件">
+			<Four Name="大、中型电子计算机"/>
+			<Four Name="小型电子计算机"/>
+			<Four Name="微型电子计算机"/>
+			<Four Name="台式计算机"/>
+			<Four Name="手提电脑"/>
+			<Four Name="光驱"/>
+			<Four Name="软驱"/>
+			<Four Name="内存"/>
+			<Four Name="硬盘"/>
+			<Four Name="CPU"/>
+			<Four Name="声卡"/>
+			<Four Name="显卡"/>
+			<Four Name="主板"/>
+			<Four Name="键盘"/>
+			<Four Name="鼠标"/>
+			<Four Name="显示器"/>
+			<Four Name="电子计算机散件"/>
+			<Four Name="文字处理机"/>
+			<Four Name="其它电子计算机"/>
+		</Three>
+	
+		<Three Name="计算机外围设备">
+			<Four Name="打印机"/>
+			<Four Name="磁盘"/>
+			<Four Name="光盘"/>
+			<Four Name="磁带"/>
+			<Four Name="扫描仪"/>
+			<Four Name="数码摄像头"/>
+			<Four Name="刻录机"/>
+			<Four Name="UPS"/>
+			<Four Name="其他外围设备"/>
+		</Three>
+		
+		<Three Name="计算机网络设备">
+			<Four Name="服务器"/>
+			<Four Name="调制解调器"/>
+			<Four Name="路由器"/>
+			<Four Name="集线器"/>
+			<Four Name="网卡"/>
+			<Four Name="工作站"/>
+			<Four Name="交换机"/>
+		</Three>
+		
+		<Three Name="计算机软件">
+			<Four Name="操作软件"/>
+			<Four Name="办公软件"/>
+			<Four Name="财务软件"/>
+			<Four Name="管理软件"/>
+			<Four Name="图像设计软件"/>
+			<Four Name="电脑安全软件"/>
+			<Four Name="网络工具软件"/>
+			<Four Name="游戏软件"/>
+			<Four Name="教育软件"/>
+			<Four Name="多媒体软件"/>
+			<Four Name="开发与编程软件"/>
+			<Four Name="翻译与字典软件"/>
+		</Three>
+
+		<Three Name="通讯产品">
+			<Four Name="电话"/>
+			<Four Name="传真机"/>
+			<Four Name="对讲机"/>
+			<Four Name="通讯电缆"/>
+			<Four Name="天线及接受器"/>
+			<Four Name="呼叫器"/>
+			<Four Name="无线电设备"/>
+			<Four Name="雷达导航设备"/>
+			<Four Name="卫星通讯设备"/>
+			<Four Name="卫星接收器"/>
+			<Four Name="其他通讯设备及器材"/>
+		</Three>
+	</Two>
+
+	<Two Name="家用电器">
+		<Three Name="厨房电器">
+			<Four Name="微波炉"/>
+			<Four Name="电热锅"/>
+			<Four Name="电饭煲"/>
+			<Four Name="电烤箱"/>
+			<Four Name="燃气炉"/>
+			<Four Name="抽油烟机"/>
+			<Four Name="排气扇"/>
+			<Four Name="洗碗机"/>
+			<Four Name="消毒柜"/>
+			<Four Name="食物处理机"/>
+			<Four Name="榨汁机"/>
+			<Four Name="搅拌机"/>
+			<Four Name="净化器 "/>
+		
+		</Three>
+		<Three Name="冰箱及制冷设备">
+			<Four Name="冰箱"/>
+			<Four Name="冷柜"/>
+		</Three>
+		
+		<Three Name="空调及通风设备">
+			<Four Name="空调"/>
+			<Four Name="电风扇"/>
+			<Four Name="空气加湿器"/>
+			<Four Name="空气干燥器"/>
+			<Four Name="空气清新器"/>
+		</Three>
+		<Three Name="洗衣及干衣设备">
+			<Four Name="洗衣机"/>
+			<Four Name="干衣机"/>
+			<Four Name="电熨斗 "/>
+		</Three>
+
+		<Three Name="其他家用小电器">
+			<Four Name="计算器"/>
+			<Four Name="热水器"/>
+			<Four Name="吹风机"/>
+			<Four Name="氧气机"/>
+			<Four Name="电动剃须刀"/>
+			<Four Name="电子刀具"/>
+			<Four Name="电筒"/>
+			<Four Name="吸尘器"/>
+			<Four Name="暖炉"/>
+			<Four Name="灭蚊器"/>
+		</Three>
+	</Two>
+</One>
+
+
+<One Name="照明类">
+
+	<Two Name="照明产品">
+
+		<Three Name="照明系统应用">
+			<Four Name="工业照明"/>
+			<Four Name="装饰照明"/>
+			<Four Name="紧急及安全照明"/>
+			<Four Name="娱乐及舞台灯光"/>
+			<Four Name="办公室、广告、展览会照明"/>
+			<Four Name="户外照明"/>
+		</Three>
+	
+		<Three Name="电光源">
+			<Four Name="日光灯"/>
+			<Four Name="节能灯"/>
+			<Four Name="白炽灯"/>
+			<Four Name="霓虹灯"/>
+			<Four Name="氖灯泡"/>
+			<Four Name="碘钨灯"/>
+			<Four Name="镁灯泡"/>
+			<Four Name="溴钨灯"/>
+			<Four Name="LED"/>
+		</Three>
+	
+		<Three Name="灯具配件">
+			<Four Name="灯罩"/>
+			<Four Name="灯柱"/>
+			<Four Name="光纤"/>
+			<Four Name="灯盘"/>
+			<Four Name="灯座"/>
+			<Four Name="灯头"/>
+			<Four Name="镇流器"/>
+			<Four Name="稳压器"/>
+			<Four Name="变压器"/>
+			<Four Name="启辉器"/>
+			<Four Name="适配器"/>
+			<Four Name="转换器"/>
+			<Four Name="传感器"/>
+		</Three>
+
+	</Two>
+
+</One>
+
+
+<One Name="车辆及配件类">
+	<Two Name="自行车">
+		<Three Name="自行车">
+			<Four Name="自行车、电动自行车"/>
+			<Four Name="电动滑板车"/>
+			<Four Name="自行车零配件"/>
+			
+		</Three>
+	</Two>
+
+	<Two Name="摩托车">
+		<Three Name="摩托车">
+			<Four Name="摩托车"/>
+			<Four Name="沙滩车"/>
+		</Three>
+		<Three Name="摩托车零配件">
+			<Four Name="摩托车零配件"/>
+		</Three>
+	</Two>
+
+	<Two Name="汽车配件">
+		<Three Name="汽车零部件">
+			<Four Name="发动机及零件"/>
+			<Four Name="冷却、润滑及燃料供给零件"/>
+			<Four Name="冷却、润滑及燃料供给零件"/>
+			<Four Name="传动系零件"/>
+			<Four Name="行驶转向及制动零件"/>
+			<Four Name="汽车仪表及零件"/>
+			<Four Name="汽车电器及零件"/>
+		</Three>
+		<Three Name="轮胎">
+			<Four Name="轮胎"/>
+		</Three>
+		<Three Name="汽车配件及优化装备">
+			<Four Name="汽车配件及优化装备"/>
+		</Three>
+		<Three Name="维修及汽车相关服务用品">
+			<Four Name="维修及汽车相关服务用品"/>
+		</Three>
+		<Three Name="汽车装饰品">
+			<Four Name="汽车装饰品"/>
+		</Three>
+	</Two>
+
+	<Two Name="车辆（露天户外）">
+		<Three Name="非工程车辆">
+			<Four Name="轿车"/>
+			<Four Name="客车"/>
+			<Four Name="越野车"/>
+			<Four Name="底盘"/>
+			<Four Name="拖车及拖车头"/>
+			<Four Name="保温车"/>
+			<Four Name="冷冻车"/>
+			<Four Name="油罐汽车"/>
+			<Four Name="公共汽车"/>
+			<Four Name="救护车"/>
+			<Four Name="消防车"/>
+			<Four Name="运水车"/>
+			<Four Name="工具车"/>
+			<Four Name="飞机牵引车"/>
+			<Four Name="机场特种车辆"/>
+			<Four Name="无轨电车及设备"/>
+			<Four Name="高尔夫车"/>
+			<Four Name="ATV全场车"/>
+			<Four Name="运钞车"/>
+			<Four Name="面包车"/>
+			<Four Name="货车"/>
+			<Four Name="自卸车"/>
+		</Three>
+	</Two>
+</One>
+
+
+<One Name="机械类">
+	<Two Name="小型机械">
+		<Three Name="仪器">
+			<Four Name="电子仪器"/>
+			<Four Name="电工仪器"/>
+			<Four Name="显微镜"/>
+			<Four Name="测绘仪器"/>
+			<Four Name="观察仪器"/>
+			<Four Name="物理光学仪器"/>
+			<Four Name="其他光学仪器"/>
+			<Four Name="材料实验机"/>
+			<Four Name="地质勘探设备及仪器"/>
+			<Four Name="热工仪器"/>
+			<Four Name="自动化仪器"/>
+			<Four Name="建筑试验仪器"/>
+			<Four Name="水文土工仪器"/>
+			<Four Name="实验室仪器"/>
+			<Four Name="专用仪器仪表"/>
+			<Four Name="其他物理化工仪器"/>
+		</Three>
+		<Three Name="摄影器材">
+			<Four Name="电影器材"/>
+			<Four Name="照相器材"/>
+			<Four Name="其他照相制版及电影器材"/>
+		</Three>
+		<Three Name="印刷器材">
+			<Four Name="印刷器材"/>
+		</Three>
+		<Three Name="加工机械及配件">
+			<Four Name="机床附件"/>
+			<Four Name="台钻"/>
+			<Four Name="砂轮机"/>
+			<Four Name="磨料"/>
+			<Four Name="金刚石及制品"/>
+			<Four Name="其他各类小型机械及器材"/>
+		</Three>
+		<Three Name="家用缝纫机及零件">
+			<Four Name="纺织器材"/>
+		</Three>
+		<Three Name="运输设备">
+			<Four Name="船舶设备及零件"/>
+			<Four Name="水下特种设备"/>
+			<Four Name="航空设备及零件"/>
+			<Four Name="铁路车辆设备及器材"/>
+		</Three>
+		<Three Name="电工设备">
+			<Four Name="发电机"/>
+			<Four Name="输电设备"/>
+			<Four Name="电机组"/>
+			<Four Name="电焊机"/>
+			<Four Name="调相机"/>
+			<Four Name="半自动气割机"/>
+			<Four Name="电炉"/>
+			<Four Name="线路金具"/>
+			<Four Name="电碳制品"/>
+			<Four Name="电瓷"/>
+			<Four Name="绝缘材料"/>
+			<Four Name="电工用具"/>
+			<Four Name="蓄电池"/>
+		</Three>
+
+		<Three Name="机械基础件">
+			<Four Name="轴承"/>
+			<Four Name="坚固体"/>
+			<Four Name="链条"/>
+			<Four Name="弹簧"/>
+			<Four Name="通用阀门"/>
+			<Four Name="铸造产品"/>
+			<Four Name="锻造产品"/>
+			<Four Name="模具"/>
+			<Four Name="齿轮"/>
+			<Four Name="粉末冶金"/>
+			<Four Name="气动元件"/>
+			<Four Name="密封件"/>
+			<Four Name="液压部件及配件"/>
+			<Four Name="其他机械零配件"/>
+		</Three>
+	</Two>
+	<Two Name="大型机械及设备">
+		<Three Name="大型机械">
+			<Four Name="金属切削机床"/>
+			<Four Name="大型木工机械"/>
+			<Four Name="纺织机械"/>
+			<Four Name="制药机械"/>
+			<Four Name="塑料机械"/>
+			<Four Name="包装机械"/>
+			<Four Name="烟草机械"/>
+			<Four Name="印刷机械"/>
+			<Four Name="食品加工机械"/>
+			<Four Name="橡胶加工机械"/>
+			<Four Name="化工机械"/>
+			<Four Name="锻压机械"/>
+			<Four Name="铸造机械 "/>
+		</Three>
+		<Three Name="成套设备">
+			<Four Name="各种轻工业品生产线"/>
+		</Three>
+	</Two>
+
+	<Two Name="工程机械">
+		<Three Name="工程机械">
+			<Four Name="叉车"/>
+			<Four Name="挖掘机"/>
+			<Four Name="翻斗车"/>
+			<Four Name="汽车起重机"/>
+			<Four Name="履带式起重机"/>
+			<Four Name="水泥搅拌车"/>
+			<Four Name="平板夯"/>
+			<Four Name="吊篮"/>
+			<Four Name="切砖机"/>
+		</Three>
+		<Three Name="土建工程机械">
+			<Four Name="矿山机械"/>
+			<Four Name="起重机械"/>
+			<Four Name="煤矿机械"/>
+			<Four Name="地质机械"/>
+			<Four Name="消防机械"/>
+			<Four Name="石油机械"/>
+		</Three>
+		<Three Name="农林机械">
+			<Four Name="农用运输车辆"/>
+			<Four Name="拖拉机"/>
+			<Four Name="机耕船"/>
+			<Four Name="耕作农机具"/>
+			<Four Name="机动插秧机"/>
+			<Four Name="手动插秧机"/>
+			<Four Name="水利排灌机械"/>
+			<Four Name="收获机械"/>
+			<Four Name="农田建设机械"/>
+			<Four Name="畜牧机械"/>
+			<Four Name="农业机械零配件"/>
+			<Four Name="林业机械等"/>
+		</Three>
+		<Three Name="动力机械">
+			<Four Name="发电机组"/>
+			<Four Name="柴油机"/>
+			<Four Name="电焊机"/>
+			<Four Name="各种泵"/>
+			<Four Name="切割机"/>
+		</Three>
+		<Three Name="园林机械">
+			<Four Name="割草机"/>
+			<Four Name="手动/机动喷雾器"/>
+		</Three>
+		<Three Name="农副产品加工机械">
+			<Four Name="搅拌机"/>
+			<Four Name="粉碎机"/>
+			<Four Name="榨油机"/>
+			<Four Name="其它粮油加工机械"/>
+			<Four Name="棉花加工机械"/>
+			<Four Name="畜牧兽医机械"/>
+		</Three>
+		<Three Name="设备保养">
+			<Four Name="喷油嘴消洗机"/>
+			<Four Name="汽车举升机"/>
+			<Four Name="废油抽取机"/>
+			<Four Name="轮胎拆装机"/>
+			<Four Name="平衡机"/>
+			<Four Name="四轮定位仪"/>
+		</Three>
+		<Three Name="小型工程机械">
+			<Four Name="震动夯"/>
+			<Four Name="小型吊蓝"/>
+		</Three>
+	</Two>
+</One>
+
+
+<One Name="五金工具类">
+	<Two Name="五金">
+		<Three Name="五金">
+			<Four Name="家具五金"/>
+			<Four Name="装饰五金"/>
+			<Four Name="锁具及配件"/>
+			<Four Name="丝网"/>
+			<Four Name="焊接材料"/>
+			<Four Name="低压阀门"/>
+			<Four Name="水暖器材"/>
+			<Four Name="铸铁制品"/>
+			<Four Name="铸锻件"/>
+			<Four Name="紧固件"/>
+			<Four Name="杂项五金（滑轮、金属软管、排钉、链条等）"/>
+			<Four Name="其它五金制品"/>
+		</Three>
+	</Two>
+
+	<Two Name="工具">
+		<Three Name="工具">
+			<Four Name="量具"/>
+			<Four Name="磨具"/>
+			<Four Name="刃具"/>
+			<Four Name="手动工具"/>
+			<Four Name="电动工具"/>
+			<Four Name="气动工具"/>
+			<Four Name="液压工具"/>
+			<Four Name="焊接工具"/>
+			<Four Name="机械工具"/>
+			<Four Name="切割工具"/>
+			<Four Name="农具"/>
+		</Three>
+	</Two>
+
+</One>
+
+
+<One Name="建材类">
+	<Two Name="建筑及装饰材料">
+		<Three Name="一般建材">
+			<Four Name="金属建材"/>
+			<Four Name="化工建材"/>
+			<Four Name="玻璃建材"/>
+			<Four Name="水泥制品"/>
+			<Four Name="防火材料"/>
+			<Four Name="保温材料"/>
+			<Four Name="隔热材料"/>
+			<Four Name="墙面/防水/地坪涂料"/>
+			<Four Name="涂料助剂"/>
+			<Four Name="涂料包装材料"/>
+			<Four Name="干粉砂浆"/>
+			<Four Name="粘合剂"/>
+			<Four Name="外加剂"/>
+			<Four Name="助剂"/>
+			<Four Name="建筑胶"/>
+			<Four Name="胶带"/>
+			<Four Name="填缝剂"/>
+			<Four Name="防锈材料"/>
+			<Four Name="建筑防水材料"/>
+			<Four Name="防水添加剂"/>
+			<Four Name="防渗漏材料"/>
+			<Four Name="防水技术及相关设备"/>
+			<Four Name="管件"/>
+		</Three>
+		<Three Name="瓷砖">
+			<Four Name="墙面瓷砖"/>
+			<Four Name="地面瓷砖"/>
+			<Four Name="其它装饰用瓷砖"/>
+		</Three>
+		<Three Name="门窗类">
+			<Four Name="木门"/>
+			<Four Name="塑钢/铝合金/钢门"/>
+			<Four Name="各类自动门"/>
+			<Four Name="门控五金系统及配件"/>
+			<Four Name="门禁电子系统"/>
+			<Four Name="装饰五金"/>
+			<Four Name="门窗五金"/>
+			<Four Name="五金配件"/>
+			<Four Name="铁艺制品"/>
+		</Three>
+		<Three Name="石材">
+			<Four Name="石地板"/>
+			<Four Name="园艺文化石"/>
+			<Four Name="异型石材"/>
+			<Four Name="人造石装饰材料"/>
+			<Four Name="石料"/>
+			<Four Name="石材"/>
+		</Three>
+		<Three Name="玻璃类">
+			<Four Name="艺术玻璃"/>
+			<Four Name="建筑/装饰玻璃"/>
+
+		</Three>
+		<Three Name="厨房设备">
+        		<Four Name="整体厨房"/>
+        			<Four Name="橱柜"/>
+        			<Four Name="洗物槽"/>
+        			<Four Name="厨房挂件"/>
+        		</Three>
+		<Three Name="木地板">
+			<Four Name="实木地板"/>
+			<Four Name="实木复合地板"/>
+			<Four Name="强化木地板"/>
+			<Four Name="软木地板"/>
+			<Four Name="竹地板"/>
+
+		</Three>
+
+		<Three Name="天花/幕墙/墙纸及室内装饰">
+        			<Four Name="天花"/>
+        			<Four Name="吊顶"/>
+        			<Four Name="墙纸"/>
+        			<Four Name="铝板/铅板/点式/单元/金属幕墙"/>
+        			<Four Name="幕墙配件及加工设备"/>
+        			<Four Name="阳光板"/>
+        			<Four Name="石膏制品"/>
+        			<Four Name="钢结构"/>
+        		</Three>
+
+	</Two>
+
+	<Two Name="卫浴设备">
+
+		<Three Name="卫浴设备">
+			<Four Name="卫生陶瓷"/>
+			<Four Name="整体浴室"/>
+			<Four Name="蒸汽房"/>
+			<Four Name="淋浴类"/>
+			<Four Name="水龙头"/>
+			<Four Name="浴室五金及配件"/>
+			<Four Name="卫浴镜"/>
+			<Four Name="浴室家居"/>
+			<Four Name="热水器"/>
+			<Four Name="浴室取暖器"/>
+			<Four Name="浴室柜"/>
+			<Four Name="间隔"/>
+			<Four Name="泳池设备等"/>
+		</Three>
+	</Two>
+
+</One>
+
+
+
+<One Name="化工产品类">
+	<Two Name="化工产品">
+		<Three Name="化工原料">
+			<Four Name="无机酸"/>
+			<Four Name="钠化合物"/>
+			<Four Name="钾化合物"/>
+			<Four Name="钙化合物"/>
+			<Four Name="钡化合物"/>
+			<Four Name="锰化合物"/>
+			<Four Name="铬化合物"/>
+			<Four Name="镍化合物"/>
+			<Four Name="锌化合物"/>
+			<Four Name="镁化合物"/>
+			<Four Name="铝化合物"/>
+			<Four Name="单元素化工品"/>
+			<Four Name="什项五机化工品"/>
+			<Four Name="石蜡"/>
+			<Four Name="蜡类其他化工品"/>
+			<Four Name="焦、油化工品"/>
+			<Four Name="醇、醛化工品"/>
+			<Four Name="酯化工品"/>
+			<Four Name="酮、醚、酚化工品"/>
+			<Four Name="烷、烯、炔化工品"/>
+			<Four Name="胺化工品"/>
+			<Four Name="芳烃化工品"/>
+			<Four Name="什项有机化工品"/>
+			<Four Name="羧酸化工品"/>
+			<Four Name="其它化工原料"/>
+		</Three>
+		<Three Name="染料及中间体">
+			<Four Name="颜料原料"/>
+		</Three>
+		<Three Name="颜料原料 ">
+			<Four Name="颜料原料"/>
+		</Three>
+		<Three Name="农用化工品">	
+			<Four Name="化肥"/>
+			<Four Name="农药"/>
+			<Four Name="生长剂"/>
+			<Four Name="农膜"/>
+		</Three>
+		<Three Name="火工制品">	
+			<Four Name="炸药"/>
+			<Four Name="火药"/>
+			<Four Name="民爆器材"/>
+			<Four Name="引火合金"/>
+			<Four Name="易燃材料制品"/>
+		</Three>
+		<Three Name="化学试剂 ">	
+			<Four Name="化学试剂"/>
+		</Three>
+		<Three Name="橡胶 ">	
+			<Four Name="橡胶"/>
+		</Three>
+	</Two>
+</One>
+
+
+<One Name="日用消费品类">
+	<Two Name="餐厨用具">
+		<Three Name="不锈钢器皿">
+			<Four Name="搪瓷器皿"/>
+			<Four Name="其他材料器皿"/>
+		</Three>
+		<Three Name="餐桌用品及装饰">
+			<Four Name="餐具"/>
+			<Four Name="刀叉"/>
+			<Four Name="餐桌用蜡烛"/>
+			<Four Name="餐桌装饰"/>
+		</Three>
+		<Three Name="厨房用品">
+			<Four Name="开瓶器"/>
+			<Four Name="瓶塞钻"/>
+			<Four Name="开罐器"/>
+			<Four Name="火锅器具"/>
+			<Four Name="水壶"/>
+			<Four Name="厨房及专业刀具"/>
+			<Four Name="厨房用纸"/>
+			<Four Name="去皮器"/>
+			<Four Name="铝箔"/>
+			<Four Name="过磅称"/>
+			<Four Name="磨刀器"/>
+			<Four Name="净刀器"/>
+			<Four Name="锅"/>
+			<Four Name="铲"/>
+			<Four Name="勺"/>
+			<Four Name="核桃夹子"/>
+		</Three>
+	</Two>
+	<Two Name="日用陶瓷">
+		<Three Name="家庭用餐厨及日用陶瓷">
+			<Four Name="家庭用餐厨"/>
+			<Four Name="日用陶瓷"/>
+		</Three>
+		<Three Name="酒店用餐厨及日用陶瓷">
+			<Four Name="酒店用餐厨"/>
+			<Four Name="日用陶瓷"/>
+		</Three>
+		<Three Name="其它餐厨及日用陶瓷">
+			<Four Name="其它餐厨"/>
+			<Four Name="日用陶瓷"/>
+		</Three>
+	</Two>
+	<Two Name="家居用品">
+		<Three Name="清洁用品">
+			<Four Name="去污剂"/>
+			<Four Name="锅具清洁用品"/>
+			<Four Name="冰箱除臭剂"/>
+			<Four Name="洗窗用具"/>
+			<Four Name="扫帚"/>
+			<Four Name="刷"/>
+			<Four Name="抹布"/>
+			<Four Name="地拖"/>
+			<Four Name="磨光用具"/>
+			<Four Name="垃圾斗"/>
+			<Four Name="垃圾铲"/>
+		</Three>
+		<Three Name="一般家庭用品">
+			<Four Name="雨伞"/>
+			<Four Name="阳伞"/>
+			<Four Name="民用手套"/>
+			<Four Name="劳保手套"/>
+			<Four Name="盆"/>
+			<Four Name="桶"/>
+			<Four Name="衣夹"/>
+			<Four Name="衣架"/>
+			<Four Name="洗衣篮"/>
+			<Four Name="钩"/>
+			<Four Name="熨衣板"/>
+			<Four Name="鞋架"/>
+			<Four Name="鞋盒"/>
+			<Four Name="鞋柜"/>
+			<Four Name="烟具"/>
+			<Four Name="打火机"/>
+			<Four Name="温度计"/>
+			<Four Name="CD架"/>
+			<Four Name="废纸篓"/>
+			<Four Name="储物柜"/>
+			<Four Name="酒瓶架"/>
+			<Four Name="购物手推车"/>
+			<Four Name="其他家庭用品"/>
+		</Three>
+	</Two>
+
+	<Two Name="个人护理用具">
+		<Three Name="化妆品及配件">
+			<Four Name="化妆品"/>
+			<Four Name="唇膏"/>
+			<Four Name="化妆袋"/>
+			<Four Name="化妆扫"/>
+			<Four Name="化妆镜"/>
+		</Three>
+		<Three Name="皮肤护理产品">
+			<Four Name="美容面霜"/>
+			<Four Name="护肤霜"/>
+			<Four Name="护手霜"/>
+			<Four Name="防晒霜"/>
+			<Four Name="按摩用品"/>
+			<Four Name="香水"/>
+		</Three>
+		<Three Name="头发护理产品及配件">
+			<Four Name="洗护发产品"/>
+			<Four Name="梳"/>
+			<Four Name="日用发刀剪"/>
+			<Four Name="头饰"/>
+		</Three>
+		<Three Name="护甲用具">
+			<Four Name="护足用具"/>
+			<Four Name="剃须用品"/>
+		</Three>
+		<Three Name="护齿用品">
+			<Four Name="牙膏"/>
+			<Four Name="牙刷"/>
+			<Four Name="洁齿用具"/>
+		</Three>
+	</Two>
+
+	<Two Name="浴室用品">
+		<Three Name="洗浴用品">
+			<Four Name="肥皂"/>
+			<Four Name="沐浴液"/>
+			<Four Name="漱口水"/>
+			<Four Name="浴盐/浴油"/>
+			<Four Name="牙膏/牙刷"/>
+		</Three>
+		<Three Name="洗浴用具">
+			<Four Name="浴室海绵"/>
+			<Four Name="浴室用垫"/>
+			<Four Name="浴室用镜"/>
+			<Four Name="枧液容器"/>
+			<Four Name="肥皂托盘"/>
+			<Four Name="塞子"/>
+			<Four Name="湿毛巾"/>
+			<Four Name="浴帽"/>
+			<Four Name="浴帘"/>
+			<Four Name="毛巾"/>
+			<Four Name="毛巾架"/>
+			<Four Name="厕纸及面纸"/>
+		</Three>
+	</Two>
+
+</One>
+
+<One Name="礼品类">
+	<Two Name="钟表眼镜">
+		<Three Name="钟">
+			<Four Name="石英钟"/>
+			<Four Name="机械钟"/>
+			<Four Name="跳字/行针跳字钟"/>
+			<Four Name="无线电钟"/>
+			<Four Name="柜钟"/>
+			<Four Name="挂钟"/>
+			<Four Name="座钟"/>
+		</Three>
+		<Three Name="表">
+			<Four Name="石英表"/>
+			<Four Name="机械表"/>
+			<Four Name="跳字/行针跳字表"/>
+			<Four Name="液晶体显示表"/>
+			<Four Name="计时表"/>
+			<Four Name="运动表"/>
+			<Four Name="时尚表"/>
+			<Four Name="袋表"/>
+			<Four Name="怀表"/>
+		</Three>
+		<Three Name="钟表配件">
+			<Four Name="表面"/>
+			<Four Name="机芯"/>
+			<Four Name="表壳"/>
+			<Four Name="表盘"/>
+			<Four Name="表针"/>
+			<Four Name="表链"/>
+			<Four Name="表带"/>
+			<Four Name="表玻璃"/>
+			<Four Name="防水胶圈"/>
+		</Three>
+		<Three Name="眼镜">
+			<Four Name="近视镜"/>
+			<Four Name="老花镜"/>
+			<Four Name="隐型眼镜"/>
+			<Four Name="太阳镜"/>
+		</Three>
+		<Three Name="眼镜配件">
+			<Four Name="眼镜框"/>
+			<Four Name="眼镜片"/>
+			<Four Name="眼镜盒"/>
+		</Three>
+	</Two>
+	<Two Name="玩具">
+		<Three Name="婴儿玩具"/>
+		<Three Name="电动或遥控及发条类玩具"/>
+		<Three Name="动作类玩具"/>
+		<Three Name="游戏益智类玩具"/>
+		<Three Name="毛绒及布制玩具 "/>
+		<Three Name="玩偶"/>
+		<Three Name="骑乘类玩具">
+			<Four Name="童车"/>
+			<Four Name="婴儿车"/>
+			<Four Name="小自行车"/>
+		</Three>
+		<Three Name="玩具乐器"/>
+		<Three Name="充气玩具"/>
+		<Three Name="其他玩具及玩具零配件"/>
+	</Two>
+
+	<Two Name="礼品及赠品">
+		<Three Name="树脂工艺制品"/>
+		<Three Name="传统工艺品">
+			<Four Name="景泰兰"/>
+			<Four Name="漆器及雕漆"/>
+			<Four Name="工艺扇"/>
+			<Four Name="工艺灯"/>
+			<Four Name="文房四宝"/>
+			<Four Name="人发及发制品"/>
+			<Four Name="绣品"/>
+			<Four Name="花瓶"/>
+			<Four Name="工艺茶具"/>
+			<Four Name="酒具"/>
+			<Four Name="雕刻工艺品"/>
+			<Four Name="泥塑工艺品"/>
+			<Four Name="民族工艺品"/>
+			<Four Name="天然工艺品"/>
+			<Four Name="其他工艺美术品"/>
+		</Three>
+		<Three Name="珠宝及骨刻玉雕">
+			<Four Name="宝石"/>
+			<Four Name="珍珠"/>
+			<Four Name="珠宝首饰原料"/>
+			<Four Name="金银"/>
+			<Four Name="牛骨"/>
+			<Four Name="马骨"/>
+			<Four Name="骆驼骨"/>
+			<Four Name="玳瑁壳"/>
+			<Four Name="鹿角"/>
+			<Four Name="珊瑚"/>
+			<Four Name="珍珠母及其他动物质雕刻制品"/>
+			<Four Name="玉石雕刻制品"/>
+		</Three>
+		<Three Name="宣传礼品及赠品">
+			<Four Name="宣传赠品"/>
+			<Four Name="徽章及奖章"/>
+			<Four Name="纪念品"/>
+			<Four Name="钥匙扣"/>
+			<Four Name="钥匙包"/>
+			<Four Name="记事簿"/>
+		</Three>
+		<Three Name="纸品及包装产品">
+			<Four Name="日历"/>
+			<Four Name="挂历"/>
+			<Four Name="台历"/>
+			<Four Name="贺卡"/>
+			<Four Name="问候卡"/>
+			<Four Name="礼盒"/>
+			<Four Name="礼盒包装"/>
+			<Four Name="手工艺纸"/>
+			<Four Name="纸袋"/>
+			<Four Name="丝带"/>
+			<Four Name="礼品包装纸"/>
+		</Three>
+	</Two>
+	<Two Name="节日用品">
+		<Three Name="派对用品及装饰">
+			<Four Name="气球"/>
+			<Four Name="派对用品"/>
+			<Four Name="派对布置及装饰"/>
+		</Three>
+		<Three Name="节日用品及装饰">
+			<Four Name="圣诞布置及装饰"/>
+			<Four Name="复活节用品及装饰"/>
+			<Four Name="万圣节用品及装饰"/>
+			<Four Name="其他节日用品及装饰"/>
+		</Three>
+	</Two>
+</One>
+
+<One Name="家居装饰品类">
+	<Two Name="工艺陶瓷">
+		<Three Name="美术陶瓷"/>
+		<Three Name="陶瓷工艺品 "/>
+		<Three Name="园艺及花园陶瓷"/>
+	</Two>
+
+	<Two Name="玻璃工艺品">
+		<Three Name="玻璃器皿"/>
+		<Three Name="玻璃装饰品 "/>
+		<Three Name="其他玻璃工艺品"/>
+	</Two>
+
+	<Two Name="编织及藤铁工艺品">
+		<Three Name="竹器、木器、草器、柳编制品"/>
+		<Three Name="藤铁工艺品"/>
+	</Two>
+
+	<Two Name="家居装饰品">
+		<Three Name="装饰蜡烛">
+			<Four Name="烛台及相关产品"/>
+		</Three>
+		<Three Name="画、画框、相框、镜">
+			<Four Name="中国字画"/>
+			<Four Name="油画"/>
+			<Four Name="雕版画"/>
+			<Four Name="相簿"/>
+			<Four Name="相架"/>
+			<Four Name="工艺镜框"/>
+			<Four Name="画框"/>
+			<Four Name="活动支架"/>
+			<Four Name="装饰镜"/>
+		</Three>
+		<Three Name="桌上用品"/>
+		<Three Name="门窗装饰"/>
+		<Three Name="人造花"/>
+	</Two>
+	<Two Name="园林用品">
+		<Three Name="花卉苗木">
+			<Four Name="（活植物）干燥/人造花"/>
+			<Four Name="盆景"/>
+			<Four Name="园艺工具"/>
+			<Four Name="户外装置"/>
+		</Three>
+		<Three Name="园林产品">
+			<Four Name="植物配件"/>
+			<Four Name="配套用具用品（花盆及花槽、杀虫剂等）"/>
+			<Four Name="园艺装饰品"/>
+		</Three>
+		<Three Name="鱼鸟等观赏动物">
+			<Four Name="鱼鸟等观赏动物"/>
+			<Four Name="其他园林用品"/>
+		</Three>
+	</Two>
+	<Two Name="铁石制品（户外）">
+		<Three Name="石质雕刻">
+			<Four Name="各种石质雕刻制品"/>
+			<Four Name="石材"/>
+			<Four Name="大型铸铁制品"/>
+		</Three>
+	</Two>
+
+	<Two Name="家具">
+		<Three Name="传统中式家具"/>
+		<Three Name="家庭用室内家具">
+			<Four Name="客厅"/>
+			<Four Name="餐厅"/>
+			<Four Name="卧室"/>
+			<Four Name="书房"/>
+			<Four Name="厨房"/>
+			<Four Name="浴室用家具"/>
+		</Three>
+		<Three Name="宾馆饭店家具">
+			<Four Name="办公家具"/>
+			<Four Name="学校用家具"/>
+			<Four Name="医用家具"/>
+		</Three>
+		<Three Name="户外家具">
+			<Four Name="园林"/>
+			<Four Name="庭院"/>
+			<Four Name="沙滩"/>
+			<Four Name="露营用家具"/>
+		</Three>
+		 
+		<Three Name="公共设施家具">
+			<Four Name="公共设施家具"/>
+			<Four Name="其他家具"/>
+		</Three>
+		<Three Name="家具半成品">
+			<Four Name="家具半成品及零配件"/>
+		</Three>
+	</Two>
+
+</One>
+
+<One Name="纺织服装类">
+	<Two Name="男女装">
+		<Three Name="女装">
+			<Four Name="女士衬衫"/>
+			<Four Name="裙"/>
+			<Four Name="裤"/>
+			<Four Name="马甲"/>
+			<Four Name="套装"/>
+			<Four Name="外套"/>
+			<Four Name="毛衣"/>
+		</Three>
+		<Three Name="男装">
+			<Four Name="男士西服上装"/>
+			<Four Name="西裤"/>
+			<Four Name="衬衫"/>
+			<Four Name="马甲"/>
+			<Four Name="套装"/>
+			<Four Name="毛衣"/>
+		</Three>
+		<Three Name="婚纱/礼服">
+			<Four Name="结婚礼服"/>
+			<Four Name="酒会时装"/>
+			<Four Name="晚装"/>
+			<Four Name="其他"/>
+		</Three>
+	</Two>
+	<Two Name="童装">
+		<Three Name="男女童">
+			<Four Name="上衣"/>
+			<Four Name="裙"/>
+			<Four Name="裤"/>
+			<Four Name="套装"/>
+			<Four Name="外装"/>
+		</Three>
+	</Two>
+	<Two Name="内衣">
+		<Three Name="内衣及套装">
+			<Four Name="睡衣"/>
+			<Four Name="浴衣"/>
+			<Four Name="家居服"/>
+		</Three>
+		<Three Name="婴儿及孕妇服装"/>
+	</Two>
+
+	<Two Name="运动服及休闲服">
+		<Three Name="牛仔服装">
+			<Four Name="运动服及休闲服"/>
+		</Three>
+		<Three Name="运动服">
+			<Four Name="专业运动服"/>
+			<Four Name="休闲运动服"/>
+		</Three>
+		<Three Name="休闲服">
+			<Four Name="夹克/外套"/>
+			<Four Name="风衣"/>
+			<Four Name="T恤衫"/>
+			<Four Name="短裤"/>
+		</Three>
+		
+		<Three Name="其他">
+			<Four Name="制服"/>
+			<Four Name="工作服"/>
+		</Three>
+	</Two>
+
+	<Two Name="裘革皮羽绒及制品">
+		<Three Name="裘皮及制品">
+			<Four Name="各类裘皮原料"/>
+			<Four Name="裘皮制品（裘皮服装/帽子/手套/靠垫/皮褥子等）"/>
+		</Three>
+		<Three Name="革皮及制品">
+			<Four Name="各类革皮原料"/>
+			<Four Name="革皮服装等各类革皮制品"/>
+		</Three>
+		<Three Name="羽绒及制品">
+			<Four Name="羽毛羽绒原料（鹅鸭毛绒、鸡毛等）"/>
+			<Four Name="羽毛制品（鸡毛掸、羽毛花、羽毛饰品等）"/>
+			<Four Name="羽绒制品（羽绒服装、羽绒寝具、羽绒睡袋等）"/>
+		</Three>
+		<Three Name="羊绒及制品">
+			<Four Name="其他裘革皮羽绒及制品"/>
+		</Three>
+	</Two>
+
+	<Two Name="服装饰物及配件">
+		<Three Name="时装饰物">
+			<Four Name="帽"/>
+			<Four Name="手套"/>
+			<Four Name="丝巾"/>
+			<Four Name="手帕"/>
+			<Four Name="围巾"/>
+			<Four Name="袜子"/>
+			<Four Name="领带"/>
+		</Three>
+		<Three Name="成衣配件">
+			<Four Name="肩垫"/>
+			<Four Name="衣服标签"/>
+			<Four Name="拉链"/>
+		</Three>
+	</Two>
+
+	<Two Name="家用纺织品">
+		<Three Name="床上用品">
+			<Four Name="毛毯"/>
+			<Four Name="被褥"/>
+			<Four Name="床单"/>
+			<Four Name="床套"/>
+			<Four Name="床垫"/>
+			<Four Name="毛巾被"/>
+			<Four Name="枕头"/>
+			<Four Name="枕套"/>
+			<Four Name="靠垫"/>
+			<Four Name="蚊帐等"/>
+		</Three>
+		<Three Name="家居装饰用纺织品">
+			<Four Name="装饰布"/>
+			<Four Name="墙布"/>
+			<Four Name="窗帘布"/>
+			<Four Name="遮阳布"/>
+			<Four Name="家具布"/>
+			<Four Name="沙发套等"/>
+		</Three>
+		<Three Name="浴室用纺织品">
+			<Four Name="浴帘"/>
+			<Four Name="毛巾"/>
+			<Four Name="面巾"/>
+			<Four Name="浴巾"/>
+			<Four Name="沙滩巾"/>
+			<Four Name="马桶盖罩等"/>
+		</Three>
+		<Three Name="餐桌厨房用纺织品">
+			<Four Name="餐桌布"/>
+			<Four Name="餐桌垫"/>
+			<Four Name="餐巾"/>
+			<Four Name="围裙"/>
+			<Four Name="抹布"/>
+			<Four Name="微波炉手套"/>
+			<Four Name="其它厨房用纺织品"/>
+		</Three>
+		<Three Name="其他">
+			<Four Name="地垫"/>
+			<Four Name="清洁用纺织品"/>
+			<Four Name="旗帜"/>
+			<Four Name="流苏等"/>
+		</Three>
+	</Two>
+
+	<Two Name="纺织原料面料">
+		<Three Name="面料">
+			<Four Name="棉/混纺"/>
+			<Four Name="化纤/混纺"/>
+			<Four Name="麻/混纺"/>
+			<Four Name="丝/人造丝面料"/>
+			<Four Name="毛/人造毛面料"/>
+			<Four Name="特种机织物"/>
+			<Four Name="无纺织物"/>
+			<Four Name="工业用布等"/>
+		</Three>
+		<Three Name="纤维">
+			<Four Name="植物纤维"/>
+			<Four Name="动物纤维"/>
+			<Four Name="人造纤维"/>
+			<Four Name="合成纤维"/>
+			<Four Name="无机/矿物纤维"/>
+			<Four Name="化学纤维等"/>
+		</Three>
+		<Three Name="纱线">
+			<Four Name="棉纱/混纺"/>
+			<Four Name="麻纱/混纺"/>
+			<Four Name="毛纱/混纺"/>
+			<Four Name="化纤纱/混纺等"/>
+		</Three>
+		<Three Name="其他">
+			<Four Name="服装辅料等"/>
+		</Three>
+	</Two>
+
+	<Two Name="地毯及挂毯">
+		<Three Name="机制地毯">
+		<Four Name=""/>
+		</Three>
+
+		<Three Name="手工地毯">
+			<Four Name=""/>
+		</Three>
+		<Three Name="其他铺地材料">
+			<Four Name="竹草编织地毯"/>
+		</Three>
+	</Two>
+</One>
+
+<One Name="鞋类">
+	<Two Name="鞋类">
+		<Three Name="时装鞋">
+			<Four Name="男鞋"/>
+			<Four Name="女鞋"/>
+		</Three>
+		<Three Name="运动鞋">
+			<Four Name="各种球鞋"/>
+			<Four Name="跑鞋"/>
+			<Four Name="登山鞋"/>
+			<Four Name="体操鞋"/>
+			<Four Name="训练鞋及其他"/>
+		</Three>
+		<Three Name="童鞋">
+			<Four Name="童鞋"/>
+			<Four Name="凉鞋"/>
+			<Four Name="拖鞋"/>
+		</Three>
+		<Three Name="其他特殊用途的鞋靴及半成品"/>
+	</Two>
+</One>
+
+<One Name="办公、箱包及休闲用品类">
+	<Two Name="办公文具">
+		<Three Name="笔类">
+			<Four Name="铅笔"/>
+			<Four Name="圆珠笔"/>
+			<Four Name="签字笔"/>
+			<Four Name="荧光笔"/>
+			<Four Name="水笔"/>
+			<Four Name="钢笔"/>
+			<Four Name="油性笔"/>
+			<Four Name="绘画用笔"/>
+			<Four Name="笔芯"/>
+			<Four Name="墨水"/>
+		</Three>
+		<Three Name="文件存储类">
+			<Four Name="硬皮文件夹"/>
+			<Four Name="纸文件夹"/>
+			<Four Name="透明文件套"/>
+			<Four Name="会议文件套"/>
+			<Four Name="电脑打印文件夹"/>
+			<Four Name="挂夹用品"/>
+			<Four Name="风琴夹"/>
+			<Four Name="板夹"/>
+			<Four Name="分页纸夹"/>
+			<Four Name="文件盘"/>
+			<Four Name="名片夹"/>
+			<Four Name="报告夹"/>
+			<Four Name="证件夹"/>
+		</Three>
+		<Three Name="办公用品">
+			<Four Name="钉书器"/>
+			<Four Name="钉书钉"/>
+			<Four Name="装订器"/>
+			<Four Name="起钉器"/>
+			<Four Name="打孔器"/>
+			<Four Name="剪刀"/>
+			<Four Name="裁纸刀"/>
+			<Four Name="笔筒"/>
+			<Four Name="曲别针筒"/>
+			<Four Name="胶带座"/>
+			<Four Name="直尺"/>
+			<Four Name="卷尺"/>
+			<Four Name="卷笔刀"/>
+			<Four Name="涂改液"/>
+			<Four Name="橡皮"/>
+			<Four Name="胶水"/>
+			<Four Name="透明胶"/>
+			<Four Name="两面胶"/>
+			<Four Name="夹扣"/>
+			<Four Name="印章用品"/>
+			<Four Name="计算器"/>
+			<Four Name="台垫"/>
+			<Four Name="名片座"/>
+			<Four Name="报夹"/>
+		</Three>
+		<Three Name="纸制品">
+			<Four Name="笔记本"/>
+			<Four Name="告事贴"/>
+			<Four Name="传真纸"/>
+			<Four Name="电脑打印纸"/>
+			<Four Name="彩色喷墨打印纸"/>
+			<Four Name="复印纸"/>
+			<Four Name="相片纸"/>
+			<Four Name="书写纸"/>
+			<Four Name="财务用纸制品"/>
+		</Three>
+		<Three Name="标签类">
+			<Four Name="手写标贴"/>
+			<Four Name="胸卡"/>
+			<Four Name="护卡膜"/>
+			<Four Name="记号标贴"/>
+		</Three>
+		<Three Name="办公桌摆设装饰品">
+			<Four Name="办公设备耗材"/>
+		</Three>
+		<Three Name="办公自动化产品及设备"/>
+	
+	</Two>
+
+	<Two Name="箱包">
+		<Three Name="日用箱">
+			<Four Name="全皮箱"/>
+			<Four Name="人造革箱"/>
+			<Four Name="塑纺面箱"/>
+		</Three>
+		<Three Name="公文箱">
+			<Four Name="全皮公文箱"/>
+			<Four Name="塑纺公文箱"/>
+			<Four Name="人造革公文箱"/>
+		</Three>
+		<Three Name="包袋类">
+			<Four Name="全皮包"/>
+			<Four Name="人造革包"/>
+			<Four Name="棉布包袋"/>
+			<Four Name="塑纺面包袋"/>
+		</Three>
+		<Three Name="其他箱包">
+			<Four Name="其他箱包及配件"/>
+		</Three>
+	</Two>
+
+	<Two Name="体育及旅游休闲用品">
+		<Three Name="室内、外运动用品">
+			<Four Name="球类及附件"/>
+			<Four Name="拳击用具"/>
+			<Four Name="滑板"/>
+			<Four Name="旱冰鞋"/>
+			<Four Name="冰鞋"/>
+			<Four Name="健身器械"/>
+			<Four Name="家用训练器"/>
+			<Four Name="运动用网"/>
+			<Four Name="蹦床"/>
+			<Four Name="箭术"/>
+			<Four Name="自行车及附件"/>
+			<Four Name="桌球"/>
+			<Four Name="射击"/>
+			<Four Name="打猎"/>
+			<Four Name="登山"/>
+			<Four Name="绳索"/>
+			<Four Name="田竞器械"/>
+			<Four Name="马术运动用具"/>
+			<Four Name="沙滩运动用具"/>
+			<Four Name="运动眼镜"/>
+			<Four Name="运动箱包等"/>
+		</Three>
+		<Three Name="水上运动，潜水运动用品">
+			<Four Name="潜水镜"/>
+			<Four Name="潜水面罩"/>
+			<Four Name="潜水衣"/>
+			<Four Name="潜水用的鸭脚板"/>
+			<Four Name="潜水用的通气管"/>
+			<Four Name="潜水附件"/>
+			<Four Name="冲浪滑板及附件"/>
+			<Four Name="游泳用具及附件"/>
+			<Four Name="滑水及工具"/>
+		</Three>
+		<Three Name="体育纪念品">
+			<Four Name="奖杯"/>
+			<Four Name="奖状"/>
+			<Four Name="奖牌"/>
+			<Four Name="旗"/>
+			<Four Name="徽章"/>
+		</Three>
+		<Three Name="钓鱼用具">
+			<Four Name="鱼钩"/>
+			<Four Name="鱼线"/>
+			<Four Name="鱼网"/>
+			<Four Name="鱼杆"/>
+			<Four Name="鱼袋"/>
+			<Four Name="钓鱼用线轴"/>
+			<Four Name="钓具及附件"/>
+		</Three>
+		<Three Name="烧烤用具">
+			<Four Name="电烧烤"/>
+			<Four Name="煤气烧烤"/>
+			<Four Name="碳砖烧烤"/>
+			<Four Name="烤架"/>
+			<Four Name="引燃器具"/>
+			<Four Name="烧烤附件"/>
+		</Three>
+		<Three Name="户外休闲用具">
+			<Four Name="秋千"/>
+			<Four Name="吊床"/>
+			<Four Name="遮阳伞"/>
+			<Four Name="乐器"/>
+			<Four Name="棋类"/>
+			<Four Name="扑克"/>
+		</Three>
+		<Three Name="户外旅游用品">
+			<Four Name="背包"/>
+			<Four Name="防护型遮盖物"/>
+			<Four Name="气垫"/>
+			<Four Name="睡袋"/>
+			<Four Name="毯子"/>
+			<Four Name="帐篷"/>
+			<Four Name="帐篷附件"/>
+			<Four Name="露营用具及附件"/>
+		</Three>
+	</Two>
+
+</One>
+
+<One Name="医药及医疗保健类">
+	<Two Name="医药及保健品">
+		<Three Name="药品">
+			<Four Name="西成药"/>
+			<Four Name="中成药"/>
+			<Four Name="生化药"/>
+			<Four Name="兽药"/>
+		</Three>
+		<Three Name="原料药">
+			<Four Name="中药材"/>
+			<Four Name="西药原料"/>
+			<Four Name="医药中间体"/>
+			<Four Name="天然提取物"/>
+			<Four Name="药用辅料"/>
+		</Three>
+		<Three Name="保健品">
+			<Four Name="保健药品"/>
+			<Four Name="天然保健品"/>
+			<Four Name="中药酒"/>
+			<Four Name="保健酒"/>
+			<Four Name="饮品"/>
+			<Four Name="滋补品"/>
+		</Three>
+		<Three Name="美容美体用品">
+			<Four Name="功能性化妆品"/>
+			<Four Name="身体护理用品"/>
+			<Four Name="假肢假发"/>
+			<Four Name="纤体用品"/>
+			<Four Name="美容材料"/>
+		</Three>
+		<Three Name="家庭医药用具">
+			<Four Name="家庭人体秤"/>
+			<Four Name="医药箱"/>
+			<Four Name="热水袋"/>
+			<Four Name="拐杖"/>
+		</Three>
+		<Three Name="生殖保健用品及器具">
+			<Four Name="性保健用品及器具"/>
+			<Four Name="计划生育用品及器具"/>
+		</Three>
+		<Three Name="保健及康复器具">
+			<Four Name="康复器具"/>
+			<Four Name="按摩器具"/>
+			<Four Name="理疗仪器"/>
+			<Four Name="健身器具"/>
+		</Three>
+	</Two>
+
+	<Two Name="医疗器械、耗材、敷料">
+		<Three Name="医院诊断及治疗设备">
+			<Four Name="各类手术器械"/>
+			<Four Name="医用电子仪器"/>
+			<Four Name="体外诊断试剂及仪器"/>
+			<Four Name="医用激光仪器"/>
+			<Four Name="物理治疗设备"/>
+			<Four Name="微创介入诊治系统"/>
+			<Four Name="生物芯片与仪器"/>
+			<Four Name="中西医结合仪器"/>
+			<Four Name="心脏监护设备"/>
+			<Four Name="医学影像设备"/>
+			<Four Name="生化检测设备 "/>
+			<Four Name="体外诊断试剂及仪器"/>
+			<Four Name="医用光学仪器"/>
+			<Four Name="医用激光仪器"/>
+			<Four Name="物理治疗设备"/>
+			<Four Name="血压计及温度计"/>
+			<Four Name="内窥镜系统"/>
+			<Four Name="低温冷冻设备"/>
+			<Four Name="透析治疗设备"/>
+		</Three>
+		<Three Name="医院辅助设备">
+			<Four Name="眼科"/>
+			<Four Name="耳鼻喉科设备等五官科诊治设备"/>
+			<Four Name="消毒灭菌系列产品"/>
+			<Four Name="制氧供氧设备"/>
+			<Four Name="血库装备"/>
+			<Four Name="医用X射线与磁共振影像设备"/>
+			<Four Name="医用超声仪器"/>
+			<Four Name="直线加速器"/>
+		</Three>    
+		<Three Name="口腔医疗器材设备">
+			<Four Name="牙科诊断医疗设备"/>
+			<Four Name="牙科手术器材"/>
+			<Four Name="牙科技工设备及牙科材料"/>
+			<Four Name="医院远程医疗系统"/>
+			<Four Name="医院医疗信息系统"/>
+			<Four Name="医院办公自动化系统"/>
+			<Four Name="防护装置及核辐射防护装备"/>
+		</Three>
+		<Three Name="医院通用设备器具">
+			<Four Name="医院无菌病房"/>
+			<Four Name="病室监控系统"/>
+			<Four Name="各类病床"/>
+			<Four Name="医用急救车辆"/>
+			<Four Name="担架及各类急救用品"/>
+		</Three>
+		<Three Name="医用应用软件">
+			<Four Name="医用数据及图像处理系统"/>
+			<Four Name="手术室各类手术台及专用设备"/>
+		</Three>
+	</Two>
+
+</One>
+
+<One Name="食品及土特产品类">
+	<Two Name="食品">             
+		<Three Name="食品">
+			<Four Name="粮油"/>
+			<Four Name="肉类及制品"/>
+			<Four Name="蛋奶制品"/>
+			<Four Name="水产品及制品"/>
+			<Four Name="水果及制品"/>
+			<Four Name="蔬菜及制品"/>
+			<Four Name="调味品"/>
+			<Four Name="糖及糖食（糖果）"/>
+			<Four Name="糕点及饼干"/>
+			<Four Name="食品添加剂"/>
+			<Four Name="蜂产品"/>
+			<Four Name="其他食品"/>
+			<Four Name="啤酒"/>
+			<Four Name="烈酒"/>
+			<Four Name="葡萄酒"/>
+			<Four Name="咖啡"/>
+			<Four Name=" 果汁"/>
+			<Four Name="饮用水"/>
+			<Four Name="其他饮料"/>
+		</Three>
+		<Three Name="茶叶">
+			<Four Name="红茶及其他半发酵茶"/>
+			<Four Name="绿茶"/>
+			<Four Name="乌龙茶"/>
+			<Four Name="花茶"/>
+			<Four Name="普洱茶"/>
+			<Four Name="其他茶叶及相关产品（保健茶，滤纸/香花等）"/>
+			
+		</Three>
+		<Three Name="食品包装">
+			<Four Name="食品包装及相关产品"/>
+		</Three>
+	</Two>
+
+	<Two Name="土特产品">
+		<Three Name="土产品">
+			<Four Name="饲料"/>
+			<Four Name="香精及香料油"/>
+			<Four Name="麻原料及制品"/>
+			<Four Name="工业用土产原料"/>
+			<Four Name="原蜡/蜡烛及制品"/>
+			<Four Name="烟花爆竹"/>
+		</Three>
+		<Three Name="畜产品">
+			<Four Name="猪鬃"/>
+			<Four Name="肠衣"/>
+			<Four Name="漆刷"/>
+			<Four Name="兔毛（裘革皮羽绒及制品除外）"/>
+		</Three>
+		<Three Name="林化产品">
+			<Four Name="松香"/>
+			<Four Name="松节油及深加工产品"/>
+		</Three>
+		<Three Name="其它土特产品">
+			<Four Name="塑料编织袋"/>
+			<Four Name="宠物用品"/>
+			<Four Name="蚊香"/>
+			<Four Name="神纸及祭祀用品"/>
+		</Three>
+		<Three Name="木制品">
+			<Four Name="卫生筷"/>
+			<Four Name="牙签"/>
+			<Four Name="其他竹木制品"/>
+		</Three>
+		<Three Name="林产品">
+			<Four Name="板材"/>
+			<Four Name="地板"/>
+			<Four Name="建筑用材"/>
+		</Three>
+
+	</Two>
+
+</One>
+
+</Industry>

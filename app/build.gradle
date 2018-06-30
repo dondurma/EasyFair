@@ -1,0 +1,47 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '26.0.2'
+
+    defaultConfig {
+        applicationId "com.baibeiyun.eazyfair"
+        minSdkVersion 19
+        targetSdkVersion 19
+        versionCode 1
+        versionName "1.0"
+        renderscriptSupportModeEnabled true
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+
+}
+
+dependencies {
+    compile "com.android.support:multidex:1.0.0"
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:25.3.0'
+    compile project(':libzxing')
+    compile files('libs/jxl.jar')
+    compile project(':multi-image-selector')
+    compile files('libs/iTextpdf.jar')
+    compile files('libs/commons-httpclient-3.1.jar')
+    compile files('libs/volley.jar')
+    compile project(':library')
+    compile files('libs/httpclient-4.5.jar')
+    compile files('libs/httpcore-4.2.4.jar')
+    compile project(':AndroidsLib-release')
+    compile project(':GraffitiLib')
+    compile files('libs/aseo2.jar')
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.android.support:design:25.3.0'
+    compile 'com.tapadoo.android:alerter:1.0.6'
+    compile 'org.xutils:xutils:3.5.0'
+}

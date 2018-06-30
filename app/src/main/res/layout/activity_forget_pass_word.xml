@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_forget_pass_word"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context="com.baibeiyun.eazyfair.activity.ForgetPassWordActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue"
+        android:minHeight="50dp">
+
+        <RelativeLayout
+            android:id="@+id/fanhui_rl"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center">
+            <!--返回-->
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/fanhui_icon" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="@string/find_mm"
+                android:textColor="@color/color_white"
+                android:textSize="20sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/inputphonenumber_et"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/inputphonenumber"
+            android:hint="@string/input_sjhhyx"
+            android:padding="10dp"
+            android:textCursorDrawable="@drawable/color_blue_cursor" />
+
+        <ImageView
+            android:id="@+id/yz_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dp"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/input_verification_et"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/inputphonenumber"
+            android:hint="@string/input_yzm"
+            android:inputType="number"
+            android:padding="10dp"
+            android:textCursorDrawable="@drawable/color_blue_cursor" />
+
+        <TextView
+            android:id="@+id/achieve_verification_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@drawable/inputphonenumber"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/achieve_yzm"
+            android:textColor="@color/blue" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/inputpassword_et"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/inputphonenumber"
+        android:hint="@string/please_srxmm"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textCursorDrawable="@drawable/color_blue_cursor" />
+
+    <EditText
+        android:id="@+id/again_input_password_et"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/inputphonenumber"
+        android:hint="@string/agian_qrmm"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textCursorDrawable="@drawable/color_blue_cursor" />
+
+    <Button
+        android:id="@+id/update_pw_bt"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/solid_blue"
+        android:text="@string/update_mm"
+        android:textColor="@color/color_white"
+        android:textSize="18sp" />
+
+</LinearLayout>

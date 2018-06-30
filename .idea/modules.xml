@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidsLib-release/AndroidsLib-release.iml" filepath="$PROJECT_DIR$/AndroidsLib-release/AndroidsLib-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EasyFair.iml" filepath="$PROJECT_DIR$/EasyFair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraffitiLib/GraffitiLib.iml" filepath="$PROJECT_DIR$/GraffitiLib/GraffitiLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-image-selector/multi-image-selector.iml" filepath="$PROJECT_DIR$/multi-image-selector/multi-image-selector.iml" />
+    </modules>
+  </component>
+</project>

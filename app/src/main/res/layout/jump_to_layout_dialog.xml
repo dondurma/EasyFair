@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:minHeight="40dp"
+        android:text="@string/jump"
+        android:textColor="@color/blue"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/jump_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/solid_transparent_and_stroke_blue"
+        android:hint="@string/which_page"
+        android:inputType="number"
+        android:minHeight="40dp"
+        android:paddingLeft="2dp"
+        android:paddingStart="5dp"
+        android:textColorHint="@color/disselectedcolor"
+        android:textCursorDrawable="@drawable/color_blue_cursor" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp">
+
+        <Button
+            android:id="@+id/jump_dialog_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/jump_dialog_sure"
+            android:background="@drawable/bg_last_next"
+            android:minHeight="40dp"
+            android:text="@string/cancel"
+            android:textColor="@color/color_white" />
+
+        <Button
+            android:id="@+id/jump_dialog_sure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/bg_last_next"
+            android:minHeight="40dp"
+            android:text="@string/confirm"
+            android:textColor="@color/color_white" />
+    </RelativeLayout>
+</LinearLayout>

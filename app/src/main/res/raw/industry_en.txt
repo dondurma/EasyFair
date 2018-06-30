@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Industry>
+
+<One Name="Electronics and home appliances category">
+
+	<Two Name="Consumer Electronics">
+		<Three Name="Audio-video products">
+			<Four Name="home theater equipment"/>
+			<Four Name="VCD"/>
+			<Four Name="DVD"/>
+			<Four Name="CD"/>
+			<Four Name="LD"/>
+			<Four Name="microphone"/>
+			<Four Name="karaoke OK"/>
+			<Four Name="TV"/>
+			<Four Name="set-top boxes"/>
+			<Four Name="video recorders"/>
+			<Four Name="tape recorders"/>
+			<Four Name="video machines"/>
+			<Four Name="radios"/>
+			<Four Name="amplifiers"/>
+			<Four Name="speakers"/>
+			<Four Name="car audio systems"/>
+
+		</Three>
+		<Three Name="Personal digital entertainment products">
+			<Four Name="MP3"/>
+			<Four Name="MP4"/>
+			<Four Name="MD"/>
+			<Four Name="Walkman"/>
+			<Four Name="Digital camera"/>
+			<Four Name="Electronic game products"/>
+		</Three>
+		<Three Name="personal communicator">
+			<Four Name="Mobile phone"/>
+			<Four Name="Beeper"/>
+			<Four Name="Walkie-talkie"/>
+			<Four Name="PDA"/>
+		</Three>
+	</Two>
+
+	<Two Name="Electrical and electronic products">
+		<Three Name="Electronic safety equipment">
+			<Four Name="monitors"/>
+			<Four Name="alarms"/>
+			<Four Name="automatic safety"/>
+			<Four Name="detectors"/>
+			<Four Name="sensors"/>
+			<Four Name="channel control systems"/>
+			<Four Name="home security products"/>
+			<Four Name="office security systems"/>
+			<Four Name="automatic security products"/>
+			<Four Name="electronic lock systems"/>
+			<Four Name="smart cards"/>
+		</Three>
+
+		<Three Name="Business Automation equipment">
+			<Four Name="copiers"/>
+			<Four Name="Electronic Bulletin Boards"/>
+			<Four Name="projectors"/>
+			<Four Name="paper shredders"/>
+			<Four Name="attendance machines"/>
+			<Four Name="image conferencing equipment"/>
+			<Four Name="electronic cash registers"/>
+			<Four Name="automated teller machines"/>
+			<Four Name="electronic punch card machines"/>
+			<Four Name="cash registers"/>
+			<Four Name="bar code printers"/>
+			<Four Name="barcode scanners"/>
+			<Four Name="data collection"/>
+			<Four Name="IC card"/>
+		</Three>
+		<Three Name="Electrical and electronic products">
+			<Four Name="optoelectronic devices"/>
+			<Four Name="rectifiers"/>
+			<Four Name="inverters"/>
+			<Four Name="amplifiers"/>
+			<Four Name="frequency converters"/>
+			<Four Name="dividers"/>
+			<Four Name="relays"/>
+			<Four Name="adapters"/>
+			<Four Name="batteries"/>
+			<Four Name="transformers"/>
+			<Four Name="voltage regulators"/>
+			<Four Name="inductors"/>
+			<Four Name="reactors"/>
+			<Four Name="circuit breakers"/>
+			<Four Name="multimeters"/>
+			<Four Name="connectors"/>
+			<Four Name="measuring equipment"/>
+			<Four Name="Chargers"/>
+			<Four Name="electronic testing equipment"/>
+			<Four Name="electronic components"/>
+
+		</Three>
+	</Two>
+
+	<Two Name="Computer and communications products">
+		<Three Name="Computer and accessories">
+			<Four Name="Large and medium-sized computer"/>
+			<Four Name="a small computer"/>
+			<Four Name="mini computer"/>
+			<Four Name="desktop computers"/>
+			<Four Name="laptop computers"/>
+			<Four Name="CD-ROM"/>
+			<Four Name="floppy drive"/>
+			<Four Name="memory"/>
+			<Four Name="hard drive"/>
+			<Four Name="CPU"/>
+			<Four Name="sound card"/>
+			<Four Name="graphics card"/>
+			<Four Name="motherboard"/>
+			<Four Name="keyboard"/>
+			<Four Name="mouse"/>
+			<Four Name="monitor"/>
+			<Four Name="computer parts"/>
+			<Four Name="A word processor"/>
+			<Four Name="and other electronic computers"/>
+		</Three>
+
+		<Three Name="Computer peripherals">
+			<Four Name="printers"/>
+			<Four Name="disks"/>
+			<Four Name="CDs"/>
+			<Four Name="tapes"/>
+			<Four Name="scanners"/>
+			<Four Name="digital cameras"/>
+			<Four Name="recorders"/>
+			<Four Name="UPS"/>
+			<Four Name="other peripherals"/>
+		</Three>
+
+		<Three Name="Computer network equipment">
+			<Four Name="servers"/>
+			<Four Name="modems"/>
+			<Four Name="routers"/>
+			<Four Name="hubs"/>
+			<Four Name="network cards"/>
+			<Four Name="workstations"/>
+			<Four Name="switches"/>
+		</Three>
+
+		<Three Name="Computer Software">
+			<Four Name="operating software"/>
+			<Four Name="office software"/>
+			<Four Name="financial software"/>
+			<Four Name="management software"/>
+			<Four Name="graphic design software"/>
+			<Four Name="computer security software"/>
+			<Four Name="network tools software"/>
+			<Four Name="game software"/>
+			<Four Name="educational software"/>
+			<Four Name="multimedia software"/>
+			<Four Name="development and programming software"/>
+			<Four Name="translation and dictionary software"/>
+		</Three>
+
+		<Three Name="Communication Products">
+			<Four Name="Telephones"/>
+			<Four Name="Facsimile Machines"/>
+			<Four Name="Intercoms"/>
+			<Four Name="Communication Cables"/>
+			<Four Name="Antennas and Receivers"/>
+			<Four Name="Pagers"/>
+			<Four Name="Radio Equipment"/>
+			<Four Name="Radar Navigation Equipment"/>
+			<Four Name="Satellite Communication Equipment"/>
+			<Four Name="Satellite Receivers"/>
+			<Four Name="Other Communication Equipment and Equipment"/>
+		</Three>
+	</Two>
+
+	<Two Name="Household appliances">
+		<Three Name="Kitchen appliances">
+			<Four Name="microwave ovens"/>
+			<Four Name="electric pan"/>
+			<Four Name="rice cookers"/>
+			<Four Name="electric oven"/>
+			<Four Name="gas stove"/>
+			<Four Name="range hood"/>
+			<Four Name="exhaust fan"/>
+			<Four Name="dishwasher"/>
+			<Four Name="sterilizer"/>
+			<Four Name="food processor"/>
+			<Four Name="juicer"/>
+			<Four Name="mixer"/>
+			<Four Name="cleaner"/>
+
+		</Three>
+		<Three Name="Refrigerator and refrigeration equipment">
+			<Four Name="refrigerator"/>
+			<Four Name="freezer"/>
+		</Three>
+
+		<Three Name="Air conditioning and ventilation">
+			<Four Name="air conditioning"/>
+			<Four Name="electric fans"/>
+			<Four Name="air humidifiers"/>
+			<Four Name="air dryers"/>
+			<Four Name="air fresheners"/>
+		</Three>
+		<Three Name="Washing and drying equipment">
+			<Four Name="washing machines"/>
+			<Four Name="dryers"/>
+			<Four Name="irons"/>
+		</Three>
+
+		<Three Name="Other Household Appliances">
+			<Four Name="Calculator"/>
+			<Four Name="Water Heater"/>
+			<Four Name="Hair Dryer"/>
+			<Four Name="Oxygen Machine"/>
+			<Four Name="Electric Shaver"/>
+			<Four Name="Electronic Knife"/>
+			<Four Name="Torch"/>
+			<Four Name="Vacuum Cleaner"/>
+			<Four Name="Heater"/>
+			<Four Name="Mosquito"/>
+		</Three>
+	</Two>
+</One>
+
+
+<One Name="Lighting category">
+
+	<Two Name="Lighting Products">
+
+		<Three Name="Lighting System">
+			<Four Name="industrial lighting"/>
+			<Four Name="decorative lighting"/>
+			<Four Name="emergency and security lighting"/>
+			<Four Name="entertainment and stage lighting"/>
+			<Four Name="office, advertising, exhibition lighting"/>
+			<Four Name="outdoor lighting"/>
+		</Three>
+
+		<Three Name="Electric light source">
+			<Four Name="fluorescent lamp"/>
+			<Four Name="energy saving lamp"/>
+			<Four Name="incandescent lamp"/>
+			<Four Name="neon lamp"/>
+			<Four Name="neon bulb"/>
+			<Four Name="iodine tungsten lamp"/>
+			<Four Name="magnesium lamp"/>
+			<Four Name="bromine tungsten lamp"/>
+			<Four Name="LED"/>
+		</Three>
+
+		<Three Name="Lamp Fittings">
+			<Four Name="Lampshades"/>
+			<Four Name="Lampposts"/>
+			<Four Name="Fiber Optic"/>
+			<Four Name="Lamp Panels"/>
+			<Four Name="Lampholders"/>
+			<Four Name="Lamp Holders"/>
+			<Four Name="Ballasts"/>
+			<Four Name="Voltage Regulators"/>
+			<Four Name="Transformers"/>
+			<Four Name="Starters"/>
+			<Four Name="Adapters"/>
+			<Four Name="Converters"/>
+			<Four Name="Sensors"/>
+		</Three>
+
+	</Two>
+
+</One>
+
+
+<One Name="Vehicles and accessories category">
+	<Two Name="bicycle">
+		<Three Name="Bicycles">
+			<Four Name="bicycles, electric bicycles"/>
+			<Four Name="electric scooters"/>
+			<Four Name="Bicycle spare parts"/>
+
+		</Three>
+	</Two>
+
+	<Two Name="motorcycle">
+		<Three Name="Bicycles">
+			<Four Name="Motorcycles"/>
+			<Four Name="ATVs"/>
+		</Three>
+		<Three Name="Motorcycle spare parts">
+			<Four Name="Motorcycle spare parts"/>
+		</Three>
+	</Two>
+
+	<Two Name="Automotive accessories">
+		<Three Name="Automotive parts and components">
+			<Four Name="Engine and Parts"/>
+			<Four Name="Cooling"/>
+			<Four Name="Lubricating and Fuel Supply Parts"/>
+			<Four Name="Transmission Partss"/>
+			<Four Name="Steering and Brake Parts"/>
+			<Four Name="Automotive Meters and Spare Parts"/>
+			<Four Name="Automotive Electronics and Parts"/>
+		</Three>
+		<Three Name="Tires">
+			<Four Name="Tires"/>
+		</Three>
+		<Three Name="Auto parts and optimization equipment">
+			<Four Name="Auto parts and optimization equipment"/>
+		</Three>
+		<Three Name="Maintenance and automotive-related services supplies">
+			<Four Name="Maintenance and automotive-related services supplies"/>
+		</Three>
+		<Three Name="Car decorations">
+			<Four Name="Car decorations"/>
+		</Three>
+	</Two>
+
+	<Two Name="Vehicles(Outdoor)">
+		<Three Name="Non-construction vehicles">
+			<Four Name="cars"/>
+			<Four Name="buses"/>
+			<Four Name="off-road vehicles"/>
+			<Four Name="chassis"/>
+			<Four Name="Trailers"/>
+			<Four Name="insulation cars"/>
+			<Four Name="refrigerated trucks"/>
+			<Four Name="tank cars"/>
+			<Four Name="buses"/>
+			<Four Name="ambulances"/>
+			<Four Name="fire engines"/>
+			<Four Name="water transport vehicles"/>
+			<Four Name="tools vehicles"/>
+			<Four Name="aircraft tractors"/>
+			<Four Name="special airport vehicles"/>
+			<Four Name="equipment and trolley buses"/>
+			<Four Name=" golf carts"/>
+			<Four Name="ATV audience vehicles"/>
+			<Four Name="armored cars"/>
+			<Four Name="vans"/>
+			<Four Name="trucks"/>
+			<Four Name="dump trucks"/>
+		</Three>
+	</Two>
+</One>
+
+
+<One Name="mechanical">
+	<Two Name="Small Machinery">
+		<Three Name="Instruments">
+			<Four Name=" electronic instrument"/>
+			<Four Name="Electrical apparatus"/>
+			<Four Name="microscope"/>
+			<Four Name="instrument of surveying and mapping"/>
+			<Four Name="scope instrument"/>
+			<Four Name="Physical optical instrument"/>
+			<Four Name="other optical instrument"/>
+			<Four Name="Material testing machine "/>
+			<Four Name="Geological prospecting equipment and instruments"/>
+			<Four Name="Thermal instrument"/>
+			<Four Name="self-reacting device"/>
+			<Four Name="Building test instrument"/>
+			<Four Name="Hydrological and geotechnical instrument"/>
+			<Four Name="room equipment"/>
+			<Four Name="special instruments"/>
+			<Four Name="other physical and Chemical instruments"/>
+		</Three>
+		<Three Name="Photographic equipment">
+			<Four Name="film equipment"/>
+			<Four Name="photographic equipment"/>
+			<Four Name="and other photographic plate and film equipment"/>
+		</Three>
+		<Three Name="Printing equipment">
+			<Four Name="Printing equipment"/>
+		</Three>
+		<Three Name="Processing Machinery and Accessories">
+			<Four Name="Machine Tool Accessories"/>
+			<Four Name="Bench Drills"/>
+			<Four Name="Grinding Machines"/>
+			<Four Name="Abrasives"/>
+			<Four Name="Diamond and Products"/>
+			<Four Name="Other Small Machinery and Equipment"/>
+		</Three>
+		<Three Name="Household sewing machines and parts">
+			<Four Name="textile equipment"/>
+		</Three>
+		<Three Name="Transportation Equipment">
+			<Four Name="Marine Equipment and Components"/>
+			<Four Name="Underwater Special Equipment"/>
+			<Four Name="Aviation Equipment and Parts"/>
+			<Four Name="Railway Vehicle Equipment and Supplies"/>
+		</Three>
+		<Three Name="Electrical equipment">
+			<Four Name="generators"/>
+			<Four Name="transmission equipment"/>
+			<Four Name="electric units"/>
+			<Four Name="welding machine"/>
+			<Four Name="adjust the camera"/>
+			<Four Name="semi-automatic gas cutting machine"/>
+			<Four Name="electric furnace"/>
+			<Four Name="line fittings"/>
+			<Four Name="carbon products"/>
+			<Four Name="porcelain"/>
+			<Four Name="insulation materials"/>
+			<Four Name="electrical appliances"/>
+			<Four Name="batteries"/>
+		</Three>
+
+		<Three Name="Machine Components">
+			<Four Name="bearings"/>
+			<Four Name="sturdy body"/>
+			<Four Name="chains"/>
+			<Four Name="springs"/>
+			<Four Name="universal valve"/>
+			<Four Name="casting products"/>
+			<Four Name="forging products"/>
+			<Four Name="molds"/>
+			<Four Name="gears"/>
+			<Four Name="powder metallurgy"/>
+			<Four Name="pneumatic components"/>
+			<Four Name="seals"/>
+			<Four Name="hydraulic components and accessories"/>
+			<Four Name="machinery and other spare parts"/>
+		</Three>
+	</Two>
+	<Two Name="Large machinery and equipment">
+		<Three Name="Large Machinery">
+			<Four Name="metal cutting machine"/>
+			<Four Name="large woodworking machinery"/>
+			<Four Name="textile machinery"/>
+			<Four Name="pharmaceutical machinery"/>
+			<Four Name="plastic machinery"/>
+			<Four Name="packaging machinery"/>
+			<Four Name="tobacco machinery"/>
+			<Four Name="printing machinery"/>
+			<Four Name="food processing machinery"/>
+			<Four Name="rubber processing machinery"/>
+			<Four Name="chemical machinery"/>
+			<Four Name="forging machinery"/>
+			<Four Name="casting machinery"/>
+		</Three>
+		<Three Name="Complete sets of equipment">
+			<Four Name="all kinds of light industrial products production lines"/>
+		</Three>
+	</Two>
+
+	<Two Name="Engineering machinery">
+		<Three Name="Engineering machinery">
+			<Four Name="Used Forklift"/>
+			<Four Name="Excavator"/>
+			<Four Name="Dump Truck"/>
+			<Four Name="Truck Crane"/>
+			<Four Name="Crawler Crane"/>
+			<Four Name="Cement Mixer"/>
+			<Four Name="Plate Compactor"/>
+			<Four Name="Basket"/>
+			<Four Name="Cutter"/>
+		</Three>
+		<Three Name="Civil engineering machinery">
+			<Four Name="mining machinery"/>
+			<Four Name="lifting machinery"/>
+			<Four Name="coal mining machinery"/>
+			<Four Name="geological machinery"/>
+			<Four Name="fire fighting machinery"/>
+			<Four Name="petroleum machinery"/>
+		</Three>
+		<Three Name="Agriculture and Forestry Machinery">
+			<Four Name="Agricultural Transport vehicles"/>
+			<Four Name="tractors"/>
+			<Four Name="tractor boat"/>
+			<Four Name="Farming Equipment"/>
+			<Four Name="mechanical transplanter"/>
+			<Four Name="hand transplanter"/>
+			<Four Name="Drainage and Irrigation Machinery"/>
+			<Four Name="harvesting machinery"/>
+			<Four Name="construction machinery and agricultural"/>
+			<Four Name="animal husbandry machinery"/>
+			<Four Name="agricultural machinery parts"/>
+			<Four Name="forestry machinery"/>
+		</Three>
+		<Three Name="Power Machinery">
+			<Four Name="generating units"/>
+			<Four Name="diesel engines"/>
+			<Four Name="welding machines"/>
+			<Four Name="all kinds of pumps"/>
+			<Four Name="cutting machines"/>
+		</Three>
+		<Three Name="Garden machinery">
+			<Four Name="mower"/>
+			<Four Name="manual / motorized sprayers"/>
+		</Three>
+		<Three Name="Agricultural and sideline products processing machinery">
+			<Four Name="blenders"/>
+			<Four Name="shredders"/>
+			<Four Name="oil press"/>
+			<Four Name="other grain and oil processing machinery"/>
+			<Four Name="cotton processing machinery"/>
+			<Four Name="animal husbandry and veterinary machinery"/>
+		</Three>
+		<Three Name="Equipment maintenance">
+			<Four Name="Fuel injector washing machine"/>
+			<Four Name="car lift"/>
+			<Four Name="waste oil extraction machine"/>
+			<Four Name="tire changer"/>
+			<Four Name="balancing machine"/>
+			<Four Name="four wheel locator"/>
+		</Three>
+		<Three Name="Small engineering machinery">
+			<Four Name="vibration ram"/>
+			<Four Name="small hanging blue"/>
+		</Three>
+	</Two>
+</One>
+
+
+<One Name="Hardware tools">
+	<Two Name="Hardware">
+		<Three Name="Hardware">
+			<Four Name="furniture hardware"/>
+			<Four Name="decorative hardware"/>
+			<Four Name="locks and accessories"/>
+			<Four Name="wire mesh"/>
+			<Four Name="welding materials"/>
+			<Four Name="low pressure valves"/>
+			<Four Name="plumbing equipment"/>
+			<Four Name="cast iron products"/>
+			<Four Name="castings and forgings"/>
+			<Four Name="fasteners"/>
+			<Four Name="miscellaneous hardware (pulleys, metal hoses"/>
+			<Four Name="Other hardware products"/>
+		</Three>
+	</Two>
+
+	<Two Name="tool">
+		<Three Name="Tools">
+			<Four Name="Measuring Tools"/>
+			<Four Name="Abrasives"/>
+			<Four Name="Cutting Tools"/>
+			<Four Name="Hand Tools"/>
+			<Four Name="Power Tools"/>
+			<Four Name="Pneumatic Tools"/>
+			<Four Name="Hydraulic Tools"/>
+			<Four Name="Welding Tools"/>
+			<Four Name="Machine Tools"/>
+			<Four Name="Cutting Tools"/>
+			<Four Name="Farm Tools"/>
+		</Three>
+	</Two>
+
+</One>
+
+
+<One Name="Building materials">
+	<Two Name="Construction and decoration materials">
+		<Three Name="General building materials">
+			<Four Name="metal building materials"/>
+			<Four Name="chemical building materials"/>
+			<Four Name="glass building materials"/>
+			<Four Name="cement products"/>
+			<Four Name="fire protection materials"/>
+			<Four Name="insulation materials"/>
+			<Four Name="insulation materials"/>
+			<Four Name="wall/waterproof/floor coatings"/>
+			<Four Name="paint additives"/>
+			<Four Name="coating packaging materials"/>
+			<Four Name="dry mortar"/>
+			<Four Name="adhesives"/>
+			<Four Name="additives"/>
+			<Four Name="chemicals"/>
+			<Four Name="construction adhesive"/>
+			<Four Name="tape"/>
+			<Four Name="sealant"/>
+			<Four Name="rust-proof materials"/>
+			<Four Name="waterproof construction Materials"/>
+			<Four Name="waterproof additives"/>
+			<Four Name="anti-leakage materials"/>
+			<Four Name="waterproof technology and related equipment Fittings "/>
+			<Four Name="Building hardware"/>
+		</Three>
+		<Three Name="Tiles">
+			<Four Name="wall tiles"/>
+			<Four Name="floor tiles"/>
+			<Four Name="and other decorative tiles"/>
+		</Three>
+		<Three Name="Wood Flooring">
+			<Four Name="Solid wood flooring"/>
+			<Four Name="Solid wood composite floor"/>
+			<Four Name="Laminate flooring"/>
+			<Four Name="Cork flooring"/>
+			<Four Name="Bamboo flooring"/>
+		</Three>
+		<Three Name="Ceiling/Curtain Wall/Wallpaper and Interior">
+			<Four Name="ceilings"/>
+			<Four Name="ceiling"/>
+			<Four Name="wallpaper"/>
+			<Four Name="aluminum/grid/dot/unit/metal curtain wall"/>
+			<Four Name="curtain wall accessories and processing equipment"/>
+			<Four Name="solar panels"/>
+			<Four Name="gypsum products"/>
+			<Four Name="steel"/>
+		</Three>
+		<Three Name="Doors">
+			<Four Name="wood"/>
+			<Four Name="steel/aluminum/steel doors and windows"/>
+			<Four Name="various types of automatic doors"/>
+			<Four Name="door control system hardware and accessories"/>
+			<Four Name="electronic access control systems"/>
+			<Four Name="Decorative hardware"/>
+			<Four Name="doors and windows hardware"/>
+			<Four Name="hardware accessories"/>
+			<Four Name="Iron products"/>
+		</Three>
+		<Three Name="Stone">
+			<Four Name="stone floor"/>
+			<Four Name="gardening culture ston"/>
+			<Four Name="shaped stone"/>
+			<Four Name="stone"/>
+			<Four Name="artificial stone decorative materials"/>
+		</Three>
+		<Three Name="Glass">
+			<Four Name="art glass"/>
+			<Four Name="architectural/decorative glass"/>
+
+		</Three>
+		<Three Name="Kitchen equipment">
+			<Four Name="Kitchen"/>
+			<Four Name="cabinets"/>
+			<Four Name="Washing Basins"/>
+			<Four Name="kitchen accessories"/>
+		</Three>
+
+	</Two>
+
+	<Two Name="Bathroom equipment">
+		<Three Name="Bathroom equipment">
+			<Four Name="Sanitary ware"/>
+			<Four Name="bathroom"/>
+			<Four Name="steam room"/>
+			<Four Name="shower"/>
+			<Four Name="faucet"/>
+			<Four Name="bathroom hardware and accessories"/>
+			<Four Name="bathroom mirror"/>
+			<Four Name="bathroom home"/>
+			<Four Name="water heater"/>
+			<Four Name="bathroom heater"/>
+			<Four Name="bathroom cabinet"/>
+			<Four Name="interval"/>
+			<Four Name="swimming pool equipment"/>
+		</Three>
+	</Two>
+
+</One>
+
+
+
+<One Name="Chemical products">
+	<Two Name="Chemical Products">
+		<Three Name="Chemical raw materials">
+			<Four Name="inorganic acids"/>
+			<Four Name="sodium compounds"/>
+			<Four Name="potassium compounds"/>
+			<Four Name="calcium compounds"/>
+			<Four Name="barium compounds"/>
+			<Four Name="manganese compounds"/>
+			<Four Name="chromium compounds"/>
+			<Four Name="nickel compounds"/>
+			<Four Name="zinc compounds"/>
+			<Four Name="magnesium compounds"/>
+			<Four Name="aluminum compounds"/>
+			<Four Name="single element chemicals"/>
+			<Four Name="Other Chemicals"/>
+			<Four Name="Coke"/>
+			<Four Name="Oils and Chemicals"/>
+			<Four Name="Alcohols"/>
+			<Four Name="Aldehyde Chemicals"/>
+			<Four Name="Ester Chemicals"/>
+			<Four Name="Ketones, Ethers, Phenolic Chemicals"/>
+			<Four Name="Chemicals, Alkanes, Olefins"/>
+			<Four Name="Amine Chemicals"/>
+			<Four Name="Aromatic Chemicals"/>
+			<Four Name="Organic Chemicals Products"/>
+			<Four Name="carboxylic acid chemicals"/>
+			<Four Name="and other chemical raw materials"/>
+		</Three>
+		<Three Name="Dyes and intermediates">
+			<Four Name="pigment raw materials"/>
+		</Three>
+		<Three Name="Plastic raw materials ">
+			<Four Name="Plastic raw materials"/>
+		</Three>
+		<Three Name="Agricultural chemicals">
+			<Four Name="chemical fertilizers"/>
+			<Four Name="pesticides"/>
+			<Four Name="growth agents"/>
+			<Four Name="plastic sheeting"/>
+		</Three>
+		<Three Name="Firework products">
+			<Four Name="explosives"/>
+			<Four Name="gunpowder"/>
+			<Four Name="civilian explosive equipment"/>
+			<Four Name="ignition alloy"/>
+			<Four Name="flammable materials products"/>
+		</Three>
+		<Three Name=" Chemical reagents ">
+			<Four Name=" Chemical reagents"/>
+		</Three>
+		<Three Name="rubber">
+			<Four Name="rubber"/>
+		</Three>
+	</Two>
+</One>
+
+
+<One Name="Daily consumer goods category">
+	<Two Name="Kitchen utensils">
+		<Three Name="Stainless steel utensils">
+			<Four Name="enamel ware"/>
+			<Four Name="other materials containers"/>
+		</Three>
+		<Three Name="Table supplies and decorations">
+			<Four Name="tableware"/>
+			<Four Name="knives and forks"/>
+			<Four Name="dining table with candles"/>
+			<Four Name="table decoration"/>
+		</Three>
+		<Three Name="Kitchen utensils">
+			<Four Name="corkscrew "/>
+			<Four Name="tin opener"/>
+			<Four Name="Hot pot apparatus"/>
+			<Four Name="watering can"/>
+			<Four Name="net knife"/>
+			<Four Name="kitchen paper"/>
+			<Four Name="peelers"/>
+			<Four Name="aluminum foil"/>
+			<Four Name="weighing"/>
+			<Four Name="sharpening"/>
+			<Four Name="pot"/>
+			<Four Name="shovel"/>
+			<Four Name="Spoon"/>
+			<Four Name="walnut clip"/>
+		</Three>
+	</Two>
+	<Two Name="Ceramics for daily use">
+		<Three Name="Household kitchen and household ceramics">
+			<Four Name="Household kitchen"/>
+			<Four Name="household ceramics"/>
+		</Three>
+		<Three Name="Hotel kitchen and daily-use ceramics">
+			<Four Name="Hotel kitchen"/>
+			<Four Name="daily-use ceramics"/>
+		</Three>
+		<Three Name="Other tableware and household ceramics">
+			<Four Name="Other tableware"/>
+			<Four Name="household ceramics"/>
+		</Three>
+	</Two>
+	<Two Name="household products">
+		<Three Name="Cleaning supplies">
+			<Four Name="detergents"/>
+			<Four Name="cleaning utensils"/>
+			<Four Name="refrigerator deodorant"/>
+			<Four Name="window cleaning equipment"/>
+			<Four Name="brooms"/>
+			<Four Name="brushes"/>
+			<Four Name="rags"/>
+			<Four Name="to drag"/>
+			<Four Name="polished utensils"/>
+			<Four Name="garbage bucket"/>
+		</Three>
+		<Three Name="Household goods">
+			<Four Name="umbrellas"/>
+			<Four Name="umbrellas"/>
+			<Four Name="civilian gloves"/>
+			<Four Name="labor gloves"/>
+			<Four Name="pots"/>
+			<Four Name="buckets"/>
+			<Four Name="clothespins"/>
+			<Four Name="clothes racks"/>
+			<Four Name="laundry baskets"/>
+			<Four Name="hooks"/>
+			<Four Name="ironing boards"/>
+			<Four Name="shoe racks"/>
+			<Four Name="shoeboxes"/>
+			<Four Name="shoe"/>
+			<Four Name="smoking paraphernalia"/>
+			<Four Name="cigarette lighter"/>
+			<Four Name="thermometer"/>
+			<Four Name="CD racks"/>
+			<Four Name="trash"/>
+			<Four Name="lockers"/>
+			<Four Name="bottle racks"/>
+			<Four Name="shopping trolleys"/>
+			<Four Name="other household goods"/>
+		</Three>
+	</Two>
+
+	<Two Name="Personal care appliances">
+		<Three Name="Cosmetics and accessories">
+			<Four Name="cosmetics"/>
+			<Four Name="lipstick"/>
+			<Four Name="cosmetic bags"/>
+			<Four Name="makeup sweep"/>
+			<Four Name="make-up mirror"/>
+		</Three>
+		<Three Name="Skin Care Products">
+			<Four Name="Beauty Cream"/>
+			<Four Name="Skin Cream"/>
+			<Four Name="Hand Cream"/>
+			<Four Name="Sunscreen"/>
+			<Four Name="Massage Supplies"/>
+			<Four Name="Perfume"/>
+		</Three>
+		<Three Name="Hair care products and accessories">
+			<Four Name="washing law products"/>
+			<Four Name="comb"/>
+			<Four Name="daily hair knife scissors"/>
+			<Four Name="headdress"/>
+		</Three>
+		<Three Name="Armor utensils">
+			<Four Name="foot care appliances"/>
+			<Four Name="shaving supplies"/>
+		</Three>
+		<Three Name="Teeth supplies">
+			<Four Name="toothpaste"/>
+			<Four Name="toothbrush"/>
+			<Four Name="Cleaning appliances"/>
+		</Three>
+	</Two>
+
+	<Two Name="Bathroom Amenities">
+		<Three Name="Toiletries">
+			<Four Name="soap"/>
+			<Four Name="bath gel"/>
+			<Four Name="mouthwash"/>
+			<Four Name="bath salts/bath oils"/>
+			<Four Name="toothpaste/toothbrush"/>
+		</Three>
+		<Three Name="Bath utensils">
+			<Four Name="bathroom sponge"/>
+			<Four Name="bathroom mat"/>
+			<Four Name="bathroom mirror"/>
+			<Four Name="soap container"/>
+			<Four Name="soap tray"/>
+			<Four Name="stopper"/>
+			<Four Name="wet towel"/>
+			<Four Name="shower cap"/>
+			<Four Name="shower curtain"/>
+			<Four Name="towel"/>
+			<Four Name="towel holder"/>
+			<Four Name="toilet paper and facial tissue"/>
+		</Three>
+	</Two>
+
+</One>
+
+<One Name="Gift category">
+	<Two Name="Watch glasses">
+		<Three Name="Clock">
+			<Four Name="quartz clock"/>
+			<Four Name="mechanical clock"/>
+			<Four Name="jump word/line pin Clocks"/>
+			<Four Name="clock radio"/>
+			<Four Name="cabinet clock"/>
+			<Four Name="wall clock"/>
+			<Four Name="table clock"/>
+		</Three>
+		<Three Name="Table">
+			<Four Name="quartz watches"/>
+			<Four Name="mechanical watches"/>
+			<Four Name="jump word/line pin Watches"/>
+			<Four Name="liquid crystal display table"/>
+			<Four Name="stopwatch"/>
+			<Four Name="sports watch"/>
+			<Four Name="fashion watch"/>
+			<Four Name="pocket watch"/>
+			<Four Name="pocket watch"/>
+		</Three>
+		<Three Name="Watch accessories">
+			<Four Name="surface"/>
+			<Four Name="movement"/>
+			<Four Name="case"/>
+			<Four Name="dial"/>
+			<Four Name="hands"/>
+			<Four Name="bracelets"/>
+			<Four Name="strap"/>
+			<Four Name="table glass"/>
+			<Four Name="waterproof apron"/>
+		</Three>
+		<Three Name="Glasses">
+			<Four Name="myopia"/>
+			<Four Name="reading glasses"/>
+			<Four Name="contact lenses"/>
+			<Four Name="sunglasses"/>
+		</Three>
+		<Three Name="Glasses accessories">
+			<Four Name="glasses frames"/>
+			<Four Name="glasses"/>
+			<Four Name="glasses box"/>
+		</Three>
+	</Two>
+	<Two Name="toy">
+		<Three Name="Baby toys"/>
+		<Three Name="Electric or remote control and winding toys"/>
+		<Three Name="Action toys"/>
+		<Three Name="Game puzzle toys"/>
+		<Three Name="Plush and cloth toys"/>
+		<Three Name="doll"/>
+		<Three Name="Ride-on toys">
+			<Four Name="stroller"/>
+			<Four Name="stroller"/>
+			<Four Name="small bike"/>
+		</Three>
+		<Three Name="Toys musical instruments"/>
+		<Three Name="Inflatable Toys"/>
+		<Three Name="Other toys and toys spare parts"/>
+	</Two>
+
+	<Two Name="Gifts and gifts">
+		<Three Name="Resin technology products"/>
+		<Three Name="Handicrafts">
+			<Four Name="cloisonne"/>
+			<Four Name="Lacquer and lacquer"/>
+			<Four Name="Craft fan"/>
+			<Four Name="Craft lamp"/>
+			<Four Name="stationery"/>
+			<Four Name="Human hair and hair products"/>
+			<Four Name="A piece of embroidery"/>
+			<Four Name="vase"/>
+			<Four Name="Craft tea set"/>
+			<Four Name="Wine"/>
+			<Four Name="Carving crafts"/>
+			<Four Name="Clay sculpture crafts"/>
+			<Four Name="Ethnic arts and crafts"/>
+			<Four Name="Natural arts and crafts"/>
+			<Four Name="Other arts and crafts"/>
+		</Three>
+		<Three Name="Jade carvings">
+			<Four Name="gemstone"/>
+			<Four Name="Pearl"/>
+			<Four Name="Jewelry material"/>
+			<Four Name="gold and silver"/>
+			<Four Name="Bovine bone"/>
+			<Four Name="Horse bone"/>
+			<Four Name="Camel bone"/>
+			<Four Name="Tortoise shell"/>
+			<Four Name="Antlers"/>
+			<Four Name="Coral"/>
+			<Four Name="Mother of Pearl and other animal products"/>
+			<Four Name="Jade carving products"/>
+		</Three>
+		<Three Name="Promotional Gifts and Premiums">
+			<Four Name="Promotional Gifts"/>
+			<Four Name="Badges and Medals"/>
+			<Four Name="Souvenirs"/>
+			<Four Name="Key Holders"/>
+			<Four Name="Key Cases"/>
+			<Four Name="Notebooks"/>
+		</Three>
+		<Three Name="Paper and packaging products">
+			<Four Name="calendar"/>
+			<Four Name="calendars"/>
+			<Four Name="desk calendar"/>
+			<Four Name="greeting cards"/>
+			<Four Name="greeting cards"/>
+			<Four Name="gift boxes"/>
+			<Four Name="gift packaging"/>
+			<Four Name="handicraft paper"/>
+			<Four Name="paper bags"/>
+			<Four Name="ribbons"/>
+			<Four Name="gift wrapping paper"/>
+		</Three>
+	</Two>
+	<Two Name="Holiday supplies">
+		<Three Name="Party Supplies and Decoration">
+			<Four Name="Balloons"/>
+			<Four Name="Party Supplies"/>
+			<Four Name="Party Arrangement and Decoration"/>
+		</Three>
+		<Three Name="Festival Supplies and Decorations">
+			<Four Name="Christmas Arrangement and Decoration"/>
+			<Four Name="Easter Supplies and Decorations"/>
+			<Four Name="Halloween Supplies and Decorations"/>
+			<Four Name="Other Festival Supplies and Decorations"/>
+		</Three>
+	</Two>
+</One>
+
+<One Name="Home decorations category">
+	<Two Name="Process ceramics">
+		<Three Name="Art ceramics"/>
+		<Three Name="Ceramic crafts "/>
+		<Three Name="Gardening and garden ceramics"/>
+	</Two>
+
+	<Two Name="Glass products">
+		<Three Name="glassware"/>
+		<Three Name="Glass ornaments"/>
+		<Three Name="Other glass crafts"/>
+	</Two>
+
+	<Two Name="Woven and rattan iron crafts">
+		<Three Name="Bamboo、wood、grass、Liubian products"/>
+		<Three Name="Rattan iron crafts"/>
+	</Two>
+
+	<Two Name="Home Decorations">
+		<Three Name="Decorative candles">
+			<Four Name="Candlestick and related products"/>
+		</Three>
+		<Three Name="Painting, frame, picture frame, mirror">
+			<Four Name="Chinese calligraphy and painting"/>
+			<Four Name="oil painting"/>
+			<Four Name="engraving"/>
+			<Four Name="photo album"/>
+			<Four Name="photo frame"/>
+			<Four Name="craft frame"/>
+			<Four Name="picture frame"/>
+			<Four Name="movable frame"/>
+			<Four Name="decorative mirror"/>
+		</Three>
+		<Three Name="Table supplies"/>
+		<Three Name="Door and window decoration,wall hanging decorations"/>
+		<Three Name="Artificial flowers"/>
+	</Two>
+	<Two Name="Garden supplies">
+		<Three Name="Flower seedlings (live plants)">
+			<Four Name="Dry/Artificial Flowers"/>
+			<Four Name="Bonsai"/>
+			<Four Name="Gardening tools"/>
+			<Four Name="Outdoor unit"/>
+		</Three>
+		<Three Name="Garden products">
+			<Four Name="plant accessories"/>
+			<Four Name="matching appliances supplies (flower pots and flower pots, pesticides, etc.)"/>
+			<Four Name="gardening accessories"/>
+		</Three>
+		<Three Name="Fish and other ornamental animals">
+			<Four Name="Fish and other ornamental animals"/>
+			<Four Name="Other garden supplies"/>
+		</Three>
+	</Two>
+	<Two Name="Iron Stone Products (Outdoor)">
+		<Three Name="All kinds of stone carving products">
+			<Four Name="All kinds of stone carving products"/>
+			<Four Name="Stone"/>
+			<Four Name="Large cast iron products"/>
+		</Three>
+	</Two>
+
+	<Two Name="Furniture">
+		<Three Name="Traditional Chinese furniture"/>
+		<Three Name="Living room furniture">
+			<Four Name="A living room"/>
+			<Four Name="Restaurant"/>
+			<Four Name="bedroom"/>
+			<Four Name="study"/>
+			<Four Name="kitchen"/>
+			<Four Name="bathroom furniture"/>
+		</Three>
+		<Three Name="Hotel furniture">
+			<Four Name="office furniture"/>
+			<Four Name="School furniture"/>
+			<Four Name="Medical furniture"/>
+		</Three>
+		<Three Name="Outdoor furniture">
+			<Four Name="garden"/>
+			<Four Name="garden"/>
+			<Four Name="beach"/>
+			<Four Name="camping furniture"/>
+		</Three>
+
+		<Three Name="Furniture for public facilities">
+			<Four Name="Furniture for public facilities"/>
+			<Four Name="Other furniture"/>
+		</Three>
+		<Three Name="Furniture semi-finished products and spare parts">
+			<Four Name="Furniture semi-finished products and spare parts"/>
+		</Three>
+	</Two>
+
+</One>
+
+<One Name="Textiles and clothing">
+	<Two Name="Men and women">
+		<Three Name="Women">
+			<Four Name="women's shirts"/>
+			<Four Name="skirts"/>
+			<Four Name="pants"/>
+			<Four Name="vests"/>
+			<Four Name="suits"/>
+			<Four Name="jackets"/>
+			<Four Name="sweaters"/>
+		</Three>
+		<Three Name="Men">
+			<Four Name="men's suits"/>
+			<Four Name="trousers"/>
+			<Four Name="shirts"/>
+			<Four Name="vests"/>
+			<Four Name="suits"/>
+			<Four Name="sweaters"/>
+		</Three>
+		<Three Name="Wedding dress">
+			<Four Name="Wedding dress"/>
+			<Four Name="cocktail dress"/>
+			<Four Name="evening wear  other"/>
+		</Three>
+	</Two>
+	<Two Name="Children's clothing">
+		<Three Name="Children's clothing">
+			<Four Name="Tops"/>
+			<Four Name="skirts"/>
+			<Four Name="pants"/>
+			<Four Name="suits"/>
+			<Four Name="exterior"/>
+		</Three>
+	</Two>
+	<Two Name="underwear">
+		<Three Name="Underwear and suits">
+			<Four Name="pajamas"/>
+			<Four Name="bathrobes"/>
+			<Four Name=" home service"/>
+		</Three>
+		<Three Name="Baby and maternity clothing"/>
+	</Two>
+
+	<Two Name="Sportswear and casual wear">
+		<Three Name="Denim clothing">
+			<Four Name="Sportswear and Casual Wear"/>
+		</Three>
+		<Three Name="Sportswear">
+			<Four Name="professional sportswear"/>
+			<Four Name="casual sportswear"/>
+		</Three>
+		<Three Name="Casual clothes">
+			<Four Name="jackets/coats"/>
+			<Four Name="windbreakers"/>
+			<Four Name="T-shirts"/>
+			<Four Name="shorts"/>
+		</Three>
+
+		<Three Name="Other">
+			<Four Name="uniforms"/>
+			<Four Name="uniforms and so on"/>
+		</Three>
+	</Two>
+
+	<Two Name="Qiu leather down and products">
+		<Three Name="Fur and products">
+			<Four Name="all kinds of fur raw materials"/>
+			<Four Name="fur products(fur clothing/hat/glove/cushions / mattress leather, etc.)"/>
+		</Three>
+		<Three Name="Leather and leather products">
+			<Four Name="all kinds of leather raw materials"/>
+			<Four Name="leather and other leather clothing leather products"/>
+		</Three>
+		<Three Name="Feathers">
+			<Four Name="feather products (feather clothing, feather bedding, down sleeping bags, etc.)"/>
+			<Four Name="feather products (feathers and feathers)"/>
+			<Four Name="feather products (feathers and feathers)"/>
+		</Three>
+		<Three Name="Cashmere and products">
+			<Four Name="Cashmere and products  Other fur leather down and products"/>
+		</Three>
+	</Two>
+
+	<Two Name="Clothing accessories and accessories">
+		<Three Name="Fashion accessories">
+			<Four Name="hats"/>
+			<Four Name="gloves"/>
+			<Four Name="scarves"/>
+			<Four Name="handkerchiefs"/>
+			<Four Name="scarves"/>
+			<Four Name="socks"/>
+			<Four Name="ties and so on"/>
+		</Three>
+		<Three Name="Clothing accessories">
+			<Four Name="shoulder pads"/>
+			<Four Name="clothing labels"/>
+			<Four Name="zippers and so on"/>
+		</Three>
+	</Two>
+
+	<Two Name="Household textiles">
+		<Three Name="Bedding">
+			<Four Name="blankets"/>
+			<Four Name="bedding"/>
+			<Four Name="bed sheets"/>
+			<Four Name="bed sets"/>
+			<Four Name="mattresses"/>
+			<Four Name="towels"/>
+			<Four Name="pillows"/>
+			<Four Name="pillowcases"/>
+			<Four Name="cushions"/>
+			<Four Name="mosquito nets,etc"/>
+		</Three>
+		<Three Name="Home decoration textiles">
+			<Four Name="Decorative cloth"/>
+			<Four Name="wall covering"/>
+			<Four Name="curtain fabric"/>
+			<Four Name="shade cloth"/>
+			<Four Name="furniture cloth"/>
+			<Four Name="sofa sets"/>
+		</Three>
+		<Three Name="Bathroom textiles">
+			<Four Name="shower curtains"/>
+			<Four Name="towels"/>
+			<Four Name="Washcloth"/>
+			<Four Name="Bath towel"/>
+			<Four Name="Beach towel"/>
+			<Four Name="toilet cover and so on"/>
+		</Three>
+		<Three Name="Dining table, kitchen textiles">
+			<Four Name="table cloth"/>
+			<Four Name="table mats"/>
+			<Four Name="napkins"/>
+			<Four Name="aprons"/>
+			<Four Name="rags"/>
+			<Four Name="microwave gloves"/>
+			<Four Name="other kitchen textiles"/>
+		</Three>
+		<Three Name="Other">
+			<Four Name="mats"/>
+			<Four Name="cleaning textiles"/>
+			<Four Name="banners"/>
+			<Four Name="tassels and so on"/>
+		</Three>
+	</Two>
+
+	<Two Name="Textile raw materials and fabrics">
+		<Three Name="Fabric">
+			<Four Name="Cotton/blended"/>
+			<Four Name="synthetic/blends"/>
+			<Four Name="hemp/blends"/>
+			<Four Name="silk/rayon fabric"/>
+			<Four Name="Wool/Fleece"/>
+			<Four Name="special woven fabrics"/>
+			<Four Name="non-woven fabrics"/>
+			<Four Name="industrial fabrics"/>
+		</Three>
+		<Three Name="Fiber">
+			<Four Name="plant fibers"/>
+			<Four Name="animal fibers"/>
+			<Four Name="synthetic fibers"/>
+			<Four Name="synthetic fibers"/>
+			<Four Name="inorganic/mineral fiber"/>
+			<Four Name="chemical fiber"/>
+		</Three>
+		<Three Name="yarn">
+			<Four Name="cotton/blended"/>
+			<Four Name="linen/Blends"/>
+			<Four Name="Yarn/Blends"/>
+			<Four Name="Chemical Fiber Yarn/Blends etc"/>
+		</Three>
+		<Three Name="Other">
+			<Four Name="clothing accessories"/>
+		</Three>
+	</Two>
+
+	<Two Name="Carpets and tapestries">
+		<Three Name="Mechanism of carpet">
+			<Four Name=""/>
+			</Three>
+		<Three Name="Handmade carpets">
+			<Four Name="silk carpets, wool knotting carpets, plastic back carpets, and other handmade carpets  tapestry"/>
+		</Three>
+		<Three Name="Other flooring materials">
+			<Four Name="bamboo weave carpets"/>
+		</Three>
+	</Two>
+</One>
+
+<One Name="Footwear">
+	<Two Name="shoe">
+		<Three Name="Fashion shoes">
+			<Four Name="men's shoes"/>
+			<Four Name="women's shoes"/>
+		</Three>
+		<Three Name="Sports shoes">
+			<Four Name="all kinds of shoes"/>
+			<Four Name="running shoes"/>
+			<Four Name="hiking shoes"/>
+			<Four Name="gym shoes"/>
+			<Four Name="training shoes and others"/>
+		</Three>
+			<Three Name="Children's shoes"/>
+			<Three Name="Sandals"/>
+			<Three Name="slippers"/>
+
+		<Three Name="Other special purpose footwear and semi-finished products"/>
+	</Two>
+</One>
+
+<One Name="Office,luggage and leisure products category">
+	<Two Name="Office stationery">
+		<Three Name="Pen categories">
+			<Four Name="pencil"/>
+			<Four Name="ball-point pen"/>
+			<Four Name="pen"/>
+			<Four Name="highlighter"/>
+			<Four Name="pen"/>
+			<Four Name="pen"/>
+			<Four Name="oily pen"/>
+			<Four Name="painting pen"/>
+			<Four Name="cartridge"/>
+			<Four Name="ink"/>
+		</Three>
+		<Three Name="File storage">
+			<Four Name="hardcover folder"/>
+			<Four Name="paper folder"/>
+			<Four Name="transparent file cover"/>
+			<Four Name="meeting document cover"/>
+			<Four Name="computer print folder"/>
+			<Four Name="hanging folder supplies"/>
+			<Four Name="organ folder"/>
+			<Four Name="Plate clamp"/>
+			<Four Name="Paging clip"/>
+			<Four Name="File disk"/>
+			<Four Name="business card holder"/>
+			<Four Name="Report folder"/>
+			<Four Name="Certificate holder"/>
+		</Three>
+		<Three Name="Office supplies">
+			<Four Name="stapler"/>
+			<Four Name="stapler"/>
+			<Four Name="stapler"/>
+			<Four Name="The nail puller"/>
+			<Four Name="Punch"/>
+			<Four Name="scissors"/>
+			<Four Name="paper knives"/>
+			<Four Name="pencil"/>
+			<Four Name="paper clips"/>
+			<Four Name="tape seat"/>
+			<Four Name="ruler"/>
+			<Four Name="tape measure"/>
+			<Four Name="pencil sharpener"/>
+			<Four Name="Correction fluid"/>
+			<Four Name="rubber"/>
+			<Four Name="Glue"/>
+			<Four Name="transparent plastic"/>
+			<Four Name="two-sided plastic"/>
+			<Four Name="folder deduction"/>
+			<Four Name="seal supplies"/>
+			<Four Name="calculator"/>
+			<Four Name="The pad"/>
+			<Four Name="business card holder"/>
+			<Four Name="reported folder"/>
+		</Three>
+		<Three Name="Paper products">
+			<Four Name="Notebooks"/>
+			<Four Name="stickers"/>
+			<Four Name="fax paper"/>
+			<Four Name="computer printing paper"/>
+			<Four Name="color inkjet paper"/>
+			<Four Name="copy paper"/>
+			<Four Name="photo paper"/>
+			<Four Name="writing paper"/>
+			<Four Name="Financial paper products"/>
+		</Three>
+		<Three Name=" Label categories">
+			<Four Name="hand-written labels"/>
+			<Four Name="badges"/>
+			<Four Name="card protection film"/>
+			<Four Name="marking labels"/>
+		</Three>
+		<Three Name="The desk decorations">
+			<Four Name="Office automation products and equipment"/>
+		</Three>
+
+	</Two>
+
+	<Two Name="Luggage">
+		<Three Name="Daily box">
+			<Four Name="full leather box"/>
+			<Four Name="leather box"/>
+			<Four Name="plastic woven box"/>
+		</Three>
+		<Three Name="Briefcase">
+			<Four Name="full-leather briefcase"/>
+			<Four Name="plastic-woven briefcase"/>
+			<Four Name="Artificial leather document box"/>
+		</Three>
+		<Three Name="Bags categories">
+			<Four Name="all handbags"/>
+			<Four Name="leather bags"/>
+			<Four Name="cotton bags"/>
+			<Four Name="plastic woven bread bags"/>
+		</Three>
+		<Three Name=" Other luggage and accessories">
+			<Four Name=" Other luggage and accessories"/>
+		</Three>
+	</Two>
+
+	<Two Name="Sports and tourism and leisure goods">
+		<Three Name="Indoor and outdoor sports equipment">
+			<Four Name="ball and accessories"/>
+			<Four Name="boxing equipment"/>
+			<Four Name="skateboarding"/>
+			<Four Name="roller skates"/>
+			<Four Name="skates"/>
+			<Four Name="fitness equipment"/>
+			<Four Name="home training"/>
+			<Four Name="sports nets"/>
+			<Four Name="trampolines"/>
+			<Four Name="archery"/>
+			<Four Name="bikes and accessories"/>
+			<Four Name="table tennis"/>
+			<Four Name="shooting"/>
+			<Four Name="hunting"/>
+			<Four Name="hiking "/>
+			<Four Name="rope"/>
+			<Four Name="Tianjing equipment"/>
+			<Four Name="equestrian sports equipment"/>
+			<Four Name="beach sports equipment"/>
+			<Four Name="sports glasses"/>
+			<Four Name="sports bags, etc."/>
+		</Three>
+		<Three Name="Water Sports,Scuba Diving Equipment">
+			<Four Name="Diving Goggles"/>
+			<Four Name="Diving mask"/>
+			<Four Name="A diving suit"/>
+			<Four Name="Diving duck feet"/>
+			<Four Name="Vent pipe for diving"/>
+			<Four Name="Diving accessories"/>
+			<Four Name="Surfing slide and accessories"/>
+			<Four Name="Swimming gear and accessories"/>
+			<Four Name="Water skiing and tools"/>
+		</Three>
+		<Three Name="Sports souvenirs">
+			<Four Name="trophies"/>
+			<Four Name="awards"/>
+			<Four Name="medals"/>
+			<Four Name="flags"/>
+			<Four Name="badges"/>
+		</Three>
+		<Three Name="Fishing equipment">
+			<Four Name="fish hooks"/>
+			<Four Name="fishing lines"/>
+			<Four Name="fishing nets"/>
+			<Four Name="fishing rods"/>
+			<Four Name="fish bags"/>
+			<Four Name="fishing spools"/>
+			<Four Name="fishing tackle and accessories"/>
+		</Three>
+		<Three Name="Barbecue utensils">
+			<Four Name="electric grill"/>
+			<Four Name="gas grill"/>
+			<Four Name="carbon brick grill"/>
+			<Four Name="grill"/>
+			<Four Name="ignition equipment"/>
+			<Four Name="barbecue accessories"/>
+		</Three>
+		<Three Name="Outdoor utensils">
+			<Four Name="swing"/>
+			<Four Name="hammock"/>
+			<Four Name="Sunshade"/>
+			<Four Name="Musical instruments"/>
+			<Four Name="Chess"/>
+			<Four Name="poker"/>
+		</Three>
+		<Three Name="Outdoor travel goods">
+			<Four Name="backpacks"/>
+			<Four Name="protective coverings"/>
+			<Four Name="air cushions"/>
+			<Four Name="sleeping bags"/>
+			<Four Name="blankets"/>
+			<Four Name="tents"/>
+			<Four Name="tent accessories"/>
+			<Four Name="camping gear and accessories"/>
+		</Three>
+	</Two>
+
+</One>
+
+<One Name="Medicine and health care category">
+	<Two Name="Medicine and health products">
+		<Three Name="Drugs">
+			<Four Name="Western medicine"/>
+			<Four Name="Chinese medicine"/>
+			<Four Name="biochemical drugs"/>
+			<Four Name="veterinary drugs"/>
+		</Three>
+		<Three Name="Raw material medicine">
+			<Four Name="Chinese herbal medicine"/>
+			<Four Name="Western medicine raw materials"/>
+			<Four Name="pharmaceutical intermediates"/>
+			<Four Name="natural extracts"/>
+			<Four Name="pharmaceutical excipients"/>
+		</Three>
+		<Three Name="Health products">
+			<Four Name="health drugs"/>
+			<Four Name="natural health products"/>
+			<Four Name="Chinese medicine wine"/>
+			<Four Name="health wine"/>
+			<Four Name="drinks"/>
+			<Four Name="supplements"/>
+		</Three>
+		<Three Name="Beauty and Body Products">
+			<Four Name="Functional Cosmetics"/>
+			<Four Name="Body Care Products"/>
+			<Four Name="Prosthetics Wigs"/>
+			<Four Name="Slimming Supplies"/>
+			<Four Name="Cosmetic Materials"/>
+		</Three>
+		<Three Name="Family medical equipment">
+			<Four Name="family human scales"/>
+			<Four Name="medicine boxes"/>
+			<Four Name="hot water bag"/>
+			<Four Name="crutches"/>
+		</Three>
+		<Three Name="Reproductive health supplies and apparatus">
+			<Four Name="sexual health supplies and apparatus"/>
+			<Four Name="family planning supplies and apparatus"/>
+		</Three>
+		<Three Name="Health and rehabilitation equipment">
+			<Four Name="rehabilitation equipment"/>
+			<Four Name="massage equipment"/>
+			<Four Name="physical therapy equipment"/>
+			<Four Name="fitness equipmen"/>
+		</Three>
+	</Two>
+
+	<Two Name="Medical equipment,supplies,dressings">
+		<Three Name="Hospital diagnosis and treatment equipment">
+			<Four Name="Various types of surgical instruments"/>
+			<Four Name="Medical electronic equipment"/>
+			<Four Name="In vitro diagnostic reagents and instruments"/>
+			<Four Name="medical laser equipment"/>
+			<Four Name="physical therapy equipment"/>
+			<Four Name="Minimally invasive interventional diagnosis and treatment system"/>
+			<Four Name="Biochip and Instruments"/>
+			<Four Name="Integrated Traditional Chinese and Western Medicine"/>
+			<Four Name="Cardiac monitoring equipment"/>
+			<Four Name="Medical imaging equipment"/>
+			<Four Name="Biochemical testing equipment "/>
+			<Four Name="In vitro diagnostic reagents and instruments"/>
+			<Four Name="Medical optical instrument"/>
+			<Four Name="Medical laser instrument"/>
+			<Four Name="Physical therapy equipment"/>
+			<Four Name="Sphygmomanometer and thermometer"/>
+			<Four Name="Endoscopic system"/>
+			<Four Name="Low temperature refrigeration equipment"/>
+			<Four Name="Dialysis treatment equipment"/>
+		</Three>
+		<Three Name="Hospital Auxiliary Equipment">
+			<Four Name="Ophthalmology"/>
+			<Four Name="ENT equipment ENT diagnosis and treatment equipment"/>
+			<Four Name="Disinfection and sterilization products"/>
+			<Four Name="oxygen supply equipment"/>
+			<Four Name="blood bank equipment"/>
+			<Four Name="Medical X-ray and MRI Equipment"/>
+			<Four Name="Medical ultrasound equipment"/>
+			<Four Name="linear accelerator"/>
+		</Three>
+		<Three Name="Stomatological Equipment">
+			<Four Name="Dental Diagnostic Medical Equipment"/>
+			<Four Name="Dental Surgical Equipment"/>
+			<Four Name="Dental Equipment and Dental Materials"/>
+			<Four Name="Hospital telemedicine system"/>
+			<Four Name="hospital medical information system"/>
+			<Four Name="hospital office automation system"/>
+			<Four Name="Protective devices and nuclear radiation protection equipment"/>
+		</Three>
+		<Three Name="Hospital general equipmen">
+			<Four Name="hospital sterile ward"/>
+			<Four Name="ward monitoring system"/>
+			<Four Name="various types of beds"/>
+			<Four Name="medical emergency vehicles"/>
+			<Four Name="stretchers and various types of first aid supplies"/>
+		</Three>
+		<Three Name="Medical application software">
+			<Four Name="medical data and image processing system "/>
+			<Four Name="Operating room various operating tables and special equipment"/>
+		</Three>
+	</Two>
+
+</One>
+
+<One Name="Food and native products">
+	<Two Name="food">
+		<Three Name="Foodstuffs">
+			<Four Name="Cereals and Oils"/>
+			<Four Name="Meat and Meat"/>
+			<Four Name="Egg and Dairy Products"/>
+			<Four Name="Aquatic Products and Products"/>
+			<Four Name="Fruits and Products"/>
+			<Four Name="Vegetables and Products"/>
+			<Four Name="Condiments"/>
+			<Four Name="Sugar and Candy"/>
+			<Four Name="Cakes and Biscuits"/>
+			<Four Name="Food Additives"/>
+			<Four Name="Bee Products"/>
+			<Four Name="Other Foods"/>
+			<Four Name="beer"/>
+			<Four Name="spirits"/>
+			<Four Name="Wine"/>
+			<Four Name="Coffee"/>
+			<Four Name="fruit juice"/>
+			<Four Name="Drinking water"/>
+			<Four Name="Other beverages"/>
+		</Three>
+		<Three Name="Tea">
+			<Four Name="black tea,and other semi-fermented tea"/>
+			<Four Name="Green Tea"/>
+			<Four Name="oolong tea"/>
+			<Four Name="jasmine tea"/>
+			<Four Name="Pu'er tea"/>
+			<Four Name="tea and other related products (health tea, paper / flowers, etc.)"/>
+
+		</Three>
+		<Three Name="Food packaging">
+			<Four Name="Food packaging and related products"/>
+		</Three>
+	</Two>
+
+	<Two Name="Native products">
+		<Three Name="Soil Products">
+			<Four Name="feed"/>
+			<Four Name="flavors and essential oils"/>
+			<Four Name="Hemp raw materials and products"/>
+			<Four Name="hemp raw materials and products for industrial use indigenous raw materials"/>
+			<Four Name="Raw Wax / Candles and products"/>
+			<Four Name="fireworks"/>
+		</Three>
+		<Three Name="Livestock products">
+			<Four Name="pig mane"/>
+			<Four Name="casing"/>
+			<Four Name="paint brush"/>
+			<Four Name="rabbit hair (Qiu leather down and products excluded)"/>
+		</Three>
+		<Three Name="Forest Products">
+			<Four Name="rosin"/>
+			<Four Name="Turpentine and deep processed products"/>
+		</Three>
+		<Three Name="Other local products">
+			<Four Name="Plastic woven bag"/>
+			<Four Name="Pet Supplies and Pet"/>
+			<Four Name="Mosquito-repellent incense"/>
+			<Four Name="God paper and offering sacrifices"/>
+		</Three>
+		<Three Name="Wood products">
+			<Four Name="health chopsticks"/>
+			<Four Name="toothpicks"/>
+			<Four Name="other wood products"/>
+		</Three>
+		<Three Name="Other native products">
+			<Four Name="Board"/>
+			<Four Name="floor"/>
+			<Four Name="Building materials"/>
+		</Three>
+
+	</Two>
+
+</One>
+
+</Industry>
